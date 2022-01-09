@@ -1,6 +1,8 @@
 import os
 import subprocess
-fd = open("ip_whois.txt", "r")
+
+#replace file.txt with domain list text file
+fd = open("file.txt", "r")
 serverlist = []
 while True:
     line = fd.readline()

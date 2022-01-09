@@ -6,7 +6,8 @@ serverlist = []
 active = []
 down = []
 
-with open("ip_ping.txt") as file:
+#replace file.txt with domain list text file
+with open("file.txt") as file:
     lines = file.readlines()
     lines = [line.rstrip() for line in lines]
 
