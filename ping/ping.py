@@ -23,6 +23,7 @@ for line in lines:
 
         
 for ip in serverlist:
+    #ping 3 packets
     response = os.system("ping -c 3 " + ip)
     print("****")
     if response == 0:
