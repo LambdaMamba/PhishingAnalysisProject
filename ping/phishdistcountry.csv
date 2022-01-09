@@ -1,0 +1,696 @@
+,IP,RTTavg,Label,Dist,Country
+0,y.y.y.y,152.118,phish,8143.494411,Australia
+1,y.y.y.y,166.62,phish,10885.73053,United States of America
+2,y.y.y.y,153.913,phish,10878.26661,United States of America
+3,y.y.y.y,250.242,phish,9382.787657,Germany
+4,y.y.y.y,216.9,phish,9000.500428,Turkey
+5,y.y.y.y,346.891,phish,18795.10194,Brazil
+6,y.y.y.y,94.15,phish,3702.224996,Viet Nam
+7,y.y.y.y,133.438,phish,8866.952285,United States of America
+8,y.y.y.y,251.629,phish,9336.405913,Netherlands
+9,y.y.y.y,123.609,phish,11046.69067,United States of America
+10,y.y.y.y,230.596,phish,8964.70318,Germany
+11,y.y.y.y,10.724,phish,7693.550751,United States of America
+12,y.y.y.y,144.136,phish,13486.19321,Virgin Islands (British)
+13,y.y.y.y,245.52,phish,10790.54495,United States of America
+14,y.y.y.y,7.62,phish,8266.960107,United States of America
+15,y.y.y.y,163.956,phish,10885.73053,United States of America
+16,y.y.y.y,6.997,phish,10015.22608,United States of America
+17,y.y.y.y,250.461,phish,9382.787657,Germany
+18,y.y.y.y,119.604,phish,10371.95471,Canada
+19,y.y.y.y,166.259,phish,10885.73053,United States of America
+20,y.y.y.y,141.898,phish,10790.54495,United States of America
+21,y.y.y.y,242.505,phish,9557.828066,France
+22,y.y.y.y,8.271,phish,8266.960107,United States of America
+23,y.y.y.y,240.839,phish,9557.828066,France
+24,y.y.y.y,249.272,phish,9473.156738,Netherlands
+25,y.y.y.y,172.868,phish,10407.05926,Canada
+26,y.y.y.y,279.707,phish,9584.481044,Croatia
+27,y.y.y.y,160.342,phish,10217.1656,United States of America
+28,y.y.y.y,241.347,phish,9606.045731,United Kingdom of Great Britain and Northern Ireland
+29,y.y.y.y,188.377,phish,11169.94794,United States of America
+30,y.y.y.y,344.474,phish,18795.10194,Brazil
+31,y.y.y.y,103.859,phish,8325.030943,United States of America
+32,y.y.y.y,238.264,phish,9626.030627,United Kingdom of Great Britain and Northern Ireland
+33,y.y.y.y,6.141,phish,8267.250401,United States of America
+34,y.y.y.y,146.411,phish,9763.654917,United States of America
+35,y.y.y.y,240.732,phish,9604.067853,United Kingdom of Great Britain and Northern Ireland
+36,y.y.y.y,6.568,phish,7695.663885,United States of America
+37,y.y.y.y,144.147,phish,10149.54428,United States of America
+38,y.y.y.y,141.028,phish,8866.952285,United States of America
+39,y.y.y.y,6.043,phish,8312.842072,United States of America
+40,y.y.y.y,120.98,phish,8897.790714,United States of America
+41,y.y.y.y,147.283,phish,10878.26661,United States of America
+42,y.y.y.y,265.131,phish,8628.600671,Poland
+43,y.y.y.y,163.683,phish,9331.944491,Germany
+44,y.y.y.y,249.654,phish,7713.44433,Iran (Islamic Republic of)
+45,y.y.y.y,255.65,phish,10747.96726,Spain
+46,y.y.y.y,275.118,phish,18340.52108,Argentina
+47,y.y.y.y,163.921,phish,10863.87366,United States of America
+48,y.y.y.y,262.156,phish,10872.62631,Spain
+49,y.y.y.y,165.765,phish,11692.11128,United States of America
+50,y.y.y.y,251.776,phish,9234.027874,Germany
+51,y.y.y.y,112.424,phish,10906.70002,United States of America
+52,y.y.y.y,140.764,phish,10790.54495,United States of America
+53,y.y.y.y,261.995,phish,9403.462575,Germany
+54,y.y.y.y,231.465,phish,9336.405913,Netherlands
+55,y.y.y.y,158.991,phish,10150.81396,United States of America
+56,y.y.y.y,175.758,phish,9336.405913,Netherlands
+57,y.y.y.y,116.045,phish,8844.159153,United States of America
+58,y.y.y.y,7.036,phish,8312.842072,United States of America
+59,y.y.y.y,89.633,phish,5333.552487,Singapore
+60,y.y.y.y,6.438,phish,7705.027097,United States of America
+61,y.y.y.y,102.451,phish,11092.50109,United States of America
+62,y.y.y.y,8.116,phish,10015.22608,United States of America
+63,y.y.y.y,9.346,phish,8266.960107,United States of America
+64,y.y.y.y,245.486,phish,10759.85692,Spain
+65,y.y.y.y,6.836,phish,10809.16543,United States of America
+66,y.y.y.y,262.762,phish,7564.459964,Finland
+67,y.y.y.y,134.406,phish,10864.81987,United States of America
+68,y.y.y.y,6.823,phish,7705.027097,United States of America
+69,y.y.y.y,101.142,phish,5790.179645,Indonesia
+70,y.y.y.y,254.598,phish,9403.462575,Germany
+71,y.y.y.y,277.507,phish,9000.500428,Turkey
+72,y.y.y.y,148.405,phish,9763.654917,United States of America
+73,y.y.y.y,159.485,phish,10863.87366,United States of America
+74,y.y.y.y,259.577,phish,9331.944491,Germany
+75,y.y.y.y,6.22,phish,8266.960107,United States of America
+76,y.y.y.y,262.303,phish,10872.62631,Spain
+77,y.y.y.y,112.999,phish,10906.70002,United States of America
+78,y.y.y.y,6.826,phish,8312.842072,United States of America
+79,y.y.y.y,76.19,phish,5333.552487,Singapore
+80,y.y.y.y,274.169,phish,7527.115301,Russian Federation
+81,y.y.y.y,289.624,phish,8454.065969,Poland
+82,y.y.y.y,6.805,phish,8265.11052,United States of America
+83,y.y.y.y,117.536,phish,8325.126975,United States of America
+84,y.y.y.y,133.017,phish,8866.952285,United States of America
+85,y.y.y.y,255.671,phish,9380.991891,Germany
+86,y.y.y.y,167.58,phish,10407.05926,Canada
+87,y.y.y.y,243.273,phish,9345.675967,Netherlands
+88,y.y.y.y,170.602,phish,11685.89893,United States of America
+89,y.y.y.y,101.263,phish,8330.484363,United States of America
+90,y.y.y.y,268.73,phish,9557.828066,France
+91,y.y.y.y,248.895,phish,9336.405913,Netherlands
+92,y.y.y.y,5.993,phish,10015.22608,United States of America
+93,y.y.y.y,6.177,phish,8266.960107,United States of America
+94,y.y.y.y,262.995,phish,11094.05377,Spain
+95,y.y.y.y,6.611,phish,8912.793198,United States of America
+96,y.y.y.y,110.433,phish,4353.450223,Viet Nam
+97,y.y.y.y,112.426,phish,10906.70002,United States of America
+98,y.y.y.y,6.434,phish,8266.960107,United States of America
+99,y.y.y.y,231.195,phish,7527.115301,Russian Federation
+100,y.y.y.y,253.672,phish,9380.991891,Germany
+101,y.y.y.y,248.343,phish,9490.271109,United Kingdom of Great Britain and Northern Ireland
+102,y.y.y.y,7.881,phish,8266.960107,United States of America
+103,y.y.y.y,7.331,phish,38.28946944,Japan
+104,y.y.y.y,80.091,phish,5333.552487,Singapore
+105,y.y.y.y,6.682,phish,8266.960107,United States of America
+106,y.y.y.y,225.027,phish,9407.991948,Netherlands
+107,y.y.y.y,160.545,phish,11352.73883,United States of America
+108,y.y.y.y,6.503,phish,8266.960107,United States of America
+109,y.y.y.y,271.516,phish,9051.765009,Turkey
+110,y.y.y.y,205.866,phish,7644.689942,Russian Federation
+111,y.y.y.y,213.796,phish,7644.689942,Russian Federation
+112,y.y.y.y,201.532,phish,7644.689942,Russian Federation
+113,y.y.y.y,120.737,phish,8285.036775,United States of America
+114,y.y.y.y,168.39,phish,10407.05926,Canada
+115,y.y.y.y,119.917,phish,6702.731255,India
+116,y.y.y.y,128.115,phish,7776.619959,Australia
+117,y.y.y.y,108.092,phish,8265.94019,United States of America
+118,y.y.y.y,128.264,phish,8866.952285,United States of America
+119,y.y.y.y,161.293,phish,10885.73053,United States of America
+120,y.y.y.y,89.455,phish,5279.853387,Malaysia
+121,y.y.y.y,139.751,phish,8866.952285,United States of America
+122,y.y.y.y,91.668,phish,2914.291032,Hong Kong
+123,y.y.y.y,91.004,phish,2914.291032,Hong Kong
+124,y.y.y.y,105.847,phish,8809.63607,United States of America
+125,y.y.y.y,6.698,phish,38.28946944,Japan
+126,y.y.y.y,38.672,phish,1177.806499,Korea (Republic of)
+127,y.y.y.y,140.522,phish,10790.54495,United States of America
+128,y.y.y.y,241.101,phish,7696.222743,United States of America
+129,y.y.y.y,132.679,phish,10918.2487,United States of America
+130,y.y.y.y,5.926,phish,8312.842072,United States of America
+131,y.y.y.y,169.559,phish,7527.115301,Russian Federation
+132,y.y.y.y,105.768,phish,8809.63607,United States of America
+133,y.y.y.y,162.598,phish,8866.952285,United States of America
+134,y.y.y.y,122.793,phish,8285.036775,United States of America
+135,y.y.y.y,6.091,phish,8312.842072,United States of America
+136,y.y.y.y,6.799,phish,8312.842072,United States of America
+137,y.y.y.y,108.144,phish,8265.94019,United States of America
+138,y.y.y.y,6.514,phish,8266.960107,United States of America
+139,y.y.y.y,116.753,phish,11046.69067,United States of America
+140,y.y.y.y,351.491,phish,18522.80983,Brazil
+141,y.y.y.y,7.269,phish,8266.960107,United States of America
+142,y.y.y.y,238.922,phish,9336.405913,Netherlands
+143,y.y.y.y,121.065,phish,8285.036775,United States of America
+144,y.y.y.y,129.46,phish,10790.54495,United States of America
+145,y.y.y.y,374.661,phish,18340.52108,Argentina
+146,y.y.y.y,170.67,phish,7644.689942,Russian Federation
+147,y.y.y.y,140.778,phish,10790.54495,United States of America
+148,y.y.y.y,1137.792,phish,8143.494411,Australia
+149,y.y.y.y,6.955,phish,8266.960107,United States of America
+150,y.y.y.y,6.923,phish,38.28946944,Japan
+151,y.y.y.y,142.704,phish,10790.54495,United States of America
+152,y.y.y.y,167.148,phish,10380.23798,Canada
+153,y.y.y.y,6.467,phish,8266.960107,United States of America
+154,y.y.y.y,108.95,phish,8265.94019,United States of America
+155,y.y.y.y,108.811,phish,8265.94019,United States of America
+156,y.y.y.y,5.953,phish,8312.842072,United States of America
+157,y.y.y.y,5.631,phish,8312.842072,United States of America
+158,y.y.y.y,382.691,phish,13572.0894,South Africa
+159,y.y.y.y,141.247,phish,10790.54495,United States of America
+160,y.y.y.y,174.431,phish,7644.689942,Russian Federation
+161,y.y.y.y,108.805,phish,8265.94019,United States of America
+162,y.y.y.y,309.048,phish,17211.15408,Chile
+163,y.y.y.y,251.704,phish,9380.991891,Germany
+164,y.y.y.y,147.271,phish,7644.689942,Russian Federation
+165,y.y.y.y,178.977,phish,11497.34902,United States of America
+166,y.y.y.y,240.114,phish,9336.405913,Netherlands
+167,y.y.y.y,6.905,phish,8266.960107,United States of America
+168,y.y.y.y,138.863,phish,11526.78518,United States of America
+169,y.y.y.y,159.788,phish,10885.73053,United States of America
+170,y.y.y.y,105.819,phish,8809.63607,United States of America
+171,y.y.y.y,115.34,phish,11046.69067,United States of America
+172,y.y.y.y,174.133,phish,7644.689942,Russian Federation
+173,y.y.y.y,1059.539,phish,10318.40293,Canada
+174,y.y.y.y,6.558,phish,8266.960107,United States of America
+175,y.y.y.y,6.505,phish,8266.960107,United States of America
+176,y.y.y.y,140.439,phish,8866.952285,United States of America
+177,y.y.y.y,278.444,phish,9000.500428,Turkey
+178,y.y.y.y,131.578,phish,11046.69067,United States of America
+179,y.y.y.y,108.793,phish,8265.94019,United States of America
+180,y.y.y.y,121.594,phish,8285.036775,United States of America
+181,y.y.y.y,7.005,phish,8266.960107,United States of America
+182,y.y.y.y,121.805,phish,11046.69067,United States of America
+183,y.y.y.y,198.601,phish,7527.115301,Russian Federation
+184,y.y.y.y,254.182,phish,8964.70318,Germany
+185,y.y.y.y,122.938,phish,11046.69067,United States of America
+186,y.y.y.y,254.899,phish,8964.70318,Germany
+187,y.y.y.y,130.882,phish,11046.69067,United States of America
+188,y.y.y.y,144.976,phish,8866.952285,United States of America
+189,y.y.y.y,106.548,phish,8809.63607,United States of America
+190,y.y.y.y,7.445,phish,38.28946944,Japan
+191,y.y.y.y,120.672,phish,8285.036775,United States of America
+192,y.y.y.y,289.171,phish,18141.81509,Brazil
+193,y.y.y.y,132.071,phish,9763.654917,United States of America
+194,y.y.y.y,131.756,phish,9763.654917,United States of America
+195,y.y.y.y,131.335,phish,9763.654917,United States of America
+196,y.y.y.y,132.014,phish,9763.654917,United States of America
+197,y.y.y.y,131.949,phish,9763.654917,United States of America
+198,y.y.y.y,109.167,phish,8265.94019,United States of America
+199,y.y.y.y,187.112,phish,10873.12032,Mexico
+200,y.y.y.y,87.626,phish,3702.224996,Viet Nam
+201,y.y.y.y,84.316,phish,3702.224996,Viet Nam
+202,y.y.y.y,89.804,phish,3831.033686,Viet Nam
+203,y.y.y.y,246.04,phish,9336.405913,Netherlands
+204,y.y.y.y,168.776,phish,10863.87075,United States of America
+205,y.y.y.y,77.555,phish,3702.224996,Viet Nam
+206,y.y.y.y,96.187,phish,3702.224996,Viet Nam
+207,y.y.y.y,8.608,phish,8266.960107,United States of America
+208,y.y.y.y,162.575,phish,10885.73053,United States of America
+209,y.y.y.y,112.548,phish,8834.037153,United States of America
+210,y.y.y.y,93.253,phish,5782.982835,Indonesia
+211,y.y.y.y,109.625,phish,8265.94019,United States of America
+212,y.y.y.y,150.635,phish,10458.75247,United States of America
+213,y.y.y.y,108.311,phish,8265.94019,United States of America
+214,y.y.y.y,105.668,phish,8809.63607,United States of America
+215,y.y.y.y,107.549,phish,8265.94019,United States of America
+216,y.y.y.y,106.185,phish,8809.63607,United States of America
+217,y.y.y.y,141.162,phish,10790.54495,United States of America
+218,y.y.y.y,170.366,phish,7644.689942,Russian Federation
+219,y.y.y.y,7.526,phish,8266.960107,United States of America
+220,y.y.y.y,129.221,phish,8866.952285,United States of America
+221,y.y.y.y,276.582,phish,9000.500428,Turkey
+222,y.y.y.y,276.587,phish,9000.500428,Turkey
+223,y.y.y.y,6.425,phish,8266.960107,United States of America
+224,y.y.y.y,254.941,phish,8964.70318,Germany
+225,y.y.y.y,153.148,phish,10300.30598,United States of America
+226,y.y.y.y,6.904,phish,8266.960107,United States of America
+227,y.y.y.y,324.275,phish,14724.0075,South Africa
+228,y.y.y.y,152.625,phish,10458.75247,United States of America
+229,y.y.y.y,78.845,phish,5333.552487,Singapore
+230,y.y.y.y,6.542,phish,8266.960107,United States of America
+231,y.y.y.y,235.406,phish,9420.589465,Germany
+232,y.y.y.y,148.562,phish,6777.248027,India
+233,y.y.y.y,140.995,phish,8866.952285,United States of America
+234,y.y.y.y,255.45,phish,9403.462575,Germany
+235,y.y.y.y,244.269,phish,7644.689942,Russian Federation
+236,y.y.y.y,200.462,phish,7644.689942,Russian Federation
+237,y.y.y.y,74.867,phish,5333.552487,Singapore
+238,y.y.y.y,8.064,phish,8266.960107,United States of America
+239,y.y.y.y,144.137,phish,7527.115301,Russian Federation
+240,y.y.y.y,160.268,phish,10885.73053,United States of America
+241,y.y.y.y,244.356,phish,9492.020449,Germany
+242,y.y.y.y,255.103,phish,11104.1806,Spain
+243,y.y.y.y,7.846,phish,8312.842072,United States of America
+244,y.y.y.y,1095.971,phish,10318.40293,Canada
+245,y.y.y.y,200.864,phish,7644.689942,Russian Federation
+246,y.y.y.y,387.799,phish,17186.8843,Chile
+247,y.y.y.y,162.681,phish,11352.73883,United States of America
+248,y.y.y.y,107.897,phish,8265.94019,United States of America
+249,y.y.y.y,6.698,phish,8266.960107,United States of America
+250,y.y.y.y,106.533,phish,3853.584398,Viet Nam
+251,y.y.y.y,106.602,phish,8809.63607,United States of America
+252,y.y.y.y,106.788,phish,8809.63607,United States of America
+253,y.y.y.y,106.659,phish,8809.63607,United States of America
+254,y.y.y.y,105.816,phish,8809.63607,United States of America
+255,y.y.y.y,12.11,phish,8266.960107,United States of America
+256,y.y.y.y,230.893,phish,9457.181822,United Kingdom of Great Britain and Northern Ireland
+257,y.y.y.y,232.97,phish,9761.425479,France
+258,y.y.y.y,7.158,phish,8266.960107,United States of America
+259,y.y.y.y,166.103,phish,10856.77093,United States of America
+260,y.y.y.y,277.402,phish,8578.100101,Poland
+261,y.y.y.y,277.039,phish,9000.500428,Turkey
+262,y.y.y.y,0.08,phish,14310.25517,-
+263,y.y.y.y,121.489,phish,6702.731255,India
+264,y.y.y.y,151.303,phish,8866.952285,United States of America
+265,y.y.y.y,127.923,phish,8866.952285,United States of America
+266,y.y.y.y,7.277,phish,8266.960107,United States of America
+267,y.y.y.y,235.941,phish,7527.115301,Russian Federation
+268,y.y.y.y,226.031,phish,9246.516053,Netherlands
+269,y.y.y.y,5.745,phish,8312.842072,United States of America
+270,y.y.y.y,6.949,phish,8266.960107,United States of America
+271,y.y.y.y,165.483,phish,10856.77093,United States of America
+272,y.y.y.y,167.021,phish,10863.87075,United States of America
+273,y.y.y.y,261.792,phish,8812.433994,Poland
+274,y.y.y.y,239.581,phish,9022.267908,Germany
+275,y.y.y.y,126.322,phish,7696.222743,United States of America
+276,y.y.y.y,141.079,phish,8866.952285,United States of America
+277,y.y.y.y,271.529,phish,9051.765009,Turkey
+278,y.y.y.y,169.275,phish,7527.115301,Russian Federation
+279,y.y.y.y,133.132,phish,10790.54495,United States of America
+280,y.y.y.y,200.69,phish,7644.689942,Russian Federation
+281,y.y.y.y,108.642,phish,8265.94019,United States of America
+282,y.y.y.y,6.731,phish,10015.22608,United States of America
+283,y.y.y.y,133.149,phish,8866.952285,United States of America
+284,y.y.y.y,246.557,phish,9380.991891,Germany
+285,y.y.y.y,170.937,phish,7644.689942,Russian Federation
+286,y.y.y.y,251.787,phish,9384.717426,Germany
+287,y.y.y.y,133.607,phish,9307.520445,United States of America
+288,y.y.y.y,144.831,phish,10790.54495,United States of America
+289,y.y.y.y,114.148,phish,8805.939592,United States of America
+290,y.y.y.y,166.684,phish,10845.54472,United States of America
+291,y.y.y.y,84.716,phish,5333.552487,Singapore
+292,y.y.y.y,84.953,phish,9331.944491,Germany
+293,y.y.y.y,249.672,phish,9557.90306,France
+294,y.y.y.y,79.516,phish,5333.552487,Singapore
+295,y.y.y.y,107.532,phish,8809.63607,United States of America
+296,y.y.y.y,106.664,phish,8809.63607,United States of America
+297,y.y.y.y,105.893,phish,8809.63607,United States of America
+298,y.y.y.y,106.096,phish,8809.63607,United States of America
+299,y.y.y.y,106.638,phish,8809.63607,United States of America
+300,y.y.y.y,156.275,phish,10114.0945,United States of America
+301,y.y.y.y,84.492,phish,9331.944491,Germany
+302,y.y.y.y,241.577,phish,9826.563609,Seychelles
+303,y.y.y.y,243.017,phish,9673.63206,United Kingdom of Great Britain and Northern Ireland
+304,y.y.y.y,108.511,phish,8265.94019,United States of America
+305,y.y.y.y,272.907,phish,9051.765009,Turkey
+306,y.y.y.y,252.464,phish,9336.405913,Netherlands
+307,y.y.y.y,228.82,phish,8964.70318,Germany
+308,y.y.y.y,108.358,phish,8265.94019,United States of America
+309,y.y.y.y,112.678,phish,8897.790714,United States of America
+310,y.y.y.y,256.2,phish,8964.70318,Germany
+311,y.y.y.y,109.549,phish,8265.94019,United States of America
+312,y.y.y.y,100.276,phish,8265.219772,United States of America
+313,y.y.y.y,251.628,phish,9380.991891,Germany
+314,y.y.y.y,286.78,phish,8583.300604,Moldova (Republic of)
+315,y.y.y.y,6.972,phish,8266.960107,United States of America
+316,y.y.y.y,241.211,phish,9492.020449,Germany
+317,y.y.y.y,910.094,phish,6628.580645,Australia
+318,y.y.y.y,340.821,phish,16808.59252,Brazil
+319,y.y.y.y,239.749,phish,7696.222743,United States of America
+320,y.y.y.y,155.033,phish,10458.75247,United States of America
+321,y.y.y.y,255.56,phish,8964.70318,Germany
+322,y.y.y.y,170.348,phish,7644.689942,Russian Federation
+323,y.y.y.y,105.774,phish,8809.63607,United States of America
+324,y.y.y.y,143.465,phish,7527.115301,Russian Federation
+325,y.y.y.y,120.856,phish,11046.69067,United States of America
+326,y.y.y.y,130.224,phish,11046.69067,United States of America
+327,y.y.y.y,131.179,phish,9307.520445,United States of America
+328,y.y.y.y,248.022,phish,9420.589465,Germany
+329,y.y.y.y,254.454,phish,8964.70318,Germany
+330,y.y.y.y,234.004,phish,9281.5094,United Kingdom of Great Britain and Northern Ireland
+331,y.y.y.y,6.783,phish,8266.960107,United States of America
+332,y.y.y.y,7.119,phish,8266.960107,United States of America
+333,y.y.y.y,97.384,phish,5333.552487,Singapore
+334,y.y.y.y,88.54,phish,4353.450223,Viet Nam
+335,y.y.y.y,159.387,phish,10790.54495,United States of America
+336,y.y.y.y,142.917,phish,10790.54495,United States of America
+337,y.y.y.y,79.767,phish,5333.552487,Singapore
+338,y.y.y.y,116.002,phish,8805.939592,United States of America
+339,y.y.y.y,106.192,phish,8809.63607,United States of America
+340,y.y.y.y,106.888,phish,8809.63607,United States of America
+341,y.y.y.y,106.748,phish,8809.63607,United States of America
+342,y.y.y.y,295.923,phish,17211.15408,Chile
+343,y.y.y.y,238.695,phish,9380.991891,Germany
+344,y.y.y.y,10.129,phish,10015.22608,United States of America
+345,y.y.y.y,11.121,phish,8312.842072,United States of America
+346,y.y.y.y,108.089,phish,8265.94019,United States of America
+347,y.y.y.y,273.336,phish,9051.765009,Turkey
+348,y.y.y.y,107.794,phish,8809.63607,United States of America
+349,y.y.y.y,6.845,phish,8266.960107,United States of America
+350,y.y.y.y,7.126,phish,8266.960107,United States of America
+351,y.y.y.y,159.403,phish,10885.73053,United States of America
+352,y.y.y.y,115.163,phish,8805.939592,United States of America
+353,y.y.y.y,8.796,phish,8266.960107,United States of America
+354,y.y.y.y,276.834,phish,9000.500428,Turkey
+355,y.y.y.y,6.833,phish,8266.960107,United States of America
+356,y.y.y.y,167.585,phish,10863.87075,United States of America
+357,y.y.y.y,248.928,phish,9380.991891,Germany
+358,y.y.y.y,248.418,phish,9380.991891,Germany
+359,y.y.y.y,84.699,phish,5333.552487,Singapore
+360,y.y.y.y,7.216,phish,8312.842072,United States of America
+361,y.y.y.y,8.707,phish,8266.960107,United States of America
+362,y.y.y.y,144.75,phish,7776.619959,Australia
+363,y.y.y.y,234.966,phish,9420.589465,Germany
+364,y.y.y.y,7.844,phish,8266.960107,United States of America
+365,y.y.y.y,155.189,phish,10149.54428,United States of America
+366,y.y.y.y,111.858,phish,8897.790714,United States of America
+367,y.y.y.y,108.292,phish,8265.94019,United States of America
+368,y.y.y.y,108.122,phish,8265.94019,United States of America
+369,y.y.y.y,6.761,phish,8312.842072,United States of America
+370,y.y.y.y,108.087,phish,8265.94019,United States of America
+371,y.y.y.y,158.649,phish,11671.18429,United States of America
+372,y.y.y.y,140.575,phish,8866.952285,United States of America
+373,y.y.y.y,141.632,phish,8866.952285,United States of America
+374,y.y.y.y,105.844,phish,8809.63607,United States of America
+375,y.y.y.y,106.951,phish,8809.63607,United States of America
+376,y.y.y.y,137.719,phish,10540.9118,United States of America
+377,y.y.y.y,252.267,phish,9380.991891,Germany
+378,y.y.y.y,1600.544,phish,8143.494411,Australia
+379,y.y.y.y,5.954,phish,8312.842072,United States of America
+380,y.y.y.y,1577.388,phish,6628.580645,Australia
+381,y.y.y.y,173.235,phish,7527.115301,Russian Federation
+382,y.y.y.y,171.343,phish,10810.94532,United States of America
+383,y.y.y.y,1641.161,phish,7778.531814,Australia
+384,y.y.y.y,7.233,phish,8266.960107,United States of America
+385,y.y.y.y,148.583,phish,10878.26661,United States of America
+386,y.y.y.y,147.789,phish,9763.654917,United States of America
+387,y.y.y.y,239.954,phish,9336.405913,Netherlands
+388,y.y.y.y,156.504,phish,10365.02392,Canada
+389,y.y.y.y,115.07,phish,8805.939592,United States of America
+390,y.y.y.y,245.188,phish,9492.020449,Germany
+391,y.y.y.y,159.011,phish,10235.37639,United States of America
+392,y.y.y.y,133.364,phish,10790.54495,United States of America
+393,y.y.y.y,240.729,phish,9227.218417,Bulgaria
+394,y.y.y.y,141.512,phish,10790.54495,United States of America
+395,y.y.y.y,7.638,phish,9488.839626,United Kingdom of Great Britain and Northern Ireland
+396,y.y.y.y,103.939,phish,4633.776856,Thailand
+397,y.y.y.y,7.005,phish,8266.960107,United States of America
+398,y.y.y.y,212.992,phish,7024.95208,Russian Federation
+399,y.y.y.y,7.525,phish,8266.960107,United States of America
+400,y.y.y.y,250.236,phish,9336.405913,Netherlands
+401,y.y.y.y,257.323,phish,9811.691958,Italy
+402,y.y.y.y,122.417,phish,11046.69067,United States of America
+403,y.y.y.y,282.892,phish,9000.500428,Turkey
+404,y.y.y.y,227.801,phish,8964.70318,Germany
+405,y.y.y.y,141.534,phish,10790.54495,United States of America
+406,y.y.y.y,6.471,phish,8312.842072,United States of America
+407,y.y.y.y,135.187,phish,7894.661345,Australia
+408,y.y.y.y,146.928,phish,5818.550185,India
+409,y.y.y.y,148.074,phish,4933.934478,Bangladesh
+410,y.y.y.y,141.148,phish,13486.19321,Virgin Islands (British)
+411,y.y.y.y,138.951,phish,10150.81396,United States of America
+412,y.y.y.y,159.826,phish,10358.42248,Canada
+413,y.y.y.y,246.368,phish,10790.54495,United States of America
+414,y.y.y.y,7.772,phish,8312.842072,United States of America
+415,y.y.y.y,234.824,phish,8874.757722,Romania
+416,y.y.y.y,252.048,phish,9384.897694,Germany
+417,y.y.y.y,139.819,phish,8866.952285,United States of America
+418,y.y.y.y,237.985,phish,8964.70318,Germany
+419,y.y.y.y,163.564,phish,10885.73053,United States of America
+420,y.y.y.y,8.207,phish,38.28946944,Japan
+421,y.y.y.y,151.549,phish,8866.952285,United States of America
+422,y.y.y.y,246.463,phish,9420.589465,Germany
+423,y.y.y.y,175.855,phish,11685.89893,United States of America
+424,y.y.y.y,248.626,phish,9382.787657,Germany
+425,y.y.y.y,239.825,phish,8737.332465,Denmark
+426,y.y.y.y,7.146,phish,10015.22608,United States of America
+427,y.y.y.y,227.95,phish,9630.847741,Ireland
+428,y.y.y.y,117.626,phish,10371.95471,Canada
+429,y.y.y.y,259.858,phish,10747.96726,Spain
+430,y.y.y.y,232.333,phish,9607.574119,United Kingdom of Great Britain and Northern Ireland
+431,y.y.y.y,105.794,phish,8292.544545,United States of America
+432,y.y.y.y,343.661,phish,18795.10194,Brazil
+433,y.y.y.y,141.988,phish,10790.54495,United States of America
+434,y.y.y.y,120.662,phish,8143.494411,Australia
+435,y.y.y.y,244.078,phish,9606.045731,United Kingdom of Great Britain and Northern Ireland
+436,y.y.y.y,180.725,phish,11961.28888,United States of America
+437,y.y.y.y,240.724,phish,9557.828066,France
+438,y.y.y.y,6.865,phish,8312.842072,United States of America
+439,y.y.y.y,122.517,phish,9304.757148,United States of America
+440,y.y.y.y,148.865,phish,11875.95446,United States of America
+441,y.y.y.y,115.093,phish,11046.69067,United States of America
+442,y.y.y.y,157.869,phish,10863.87366,United States of America
+443,y.y.y.y,114.402,phish,10886.23839,United States of America
+444,y.y.y.y,167.723,phish,11692.11128,United States of America
+445,y.y.y.y,6.731,phish,8312.842072,United States of America
+446,y.y.y.y,150.91,phish,10877.86385,United States of America
+447,y.y.y.y,243.282,phish,9473.156738,Netherlands
+448,y.y.y.y,306.094,phish,9306.135479,Turkey
+449,y.y.y.y,168.164,phish,10407.05926,Canada
+450,y.y.y.y,150.838,phish,10149.54428,United States of America
+451,y.y.y.y,280.48,phish,9584.481044,Croatia
+452,y.y.y.y,139.826,phish,8866.952285,United States of America
+453,y.y.y.y,250.646,phish,9805.692823,Italy
+454,y.y.y.y,153.266,phish,10300.30598,United States of America
+455,y.y.y.y,141.097,phish,10790.54495,United States of America
+456,y.y.y.y,133.759,phish,10287.83077,United States of America
+457,y.y.y.y,167.013,phish,10865.3643,United States of America
+458,y.y.y.y,80.381,phish,5333.552487,Singapore
+459,y.y.y.y,73.942,phish,2914.291032,Hong Kong
+460,y.y.y.y,149.726,phish,9763.654917,United States of America
+461,y.y.y.y,6.457,phish,11526.78518,United States of America
+462,y.y.y.y,56.588,phish,2914.291032,Hong Kong
+463,y.y.y.y,241.084,phish,9606.045731,United Kingdom of Great Britain and Northern Ireland
+464,y.y.y.y,6.069,phish,10015.22608,United States of America
+465,y.y.y.y,230.266,phish,9648.223978,United Kingdom of Great Britain and Northern Ireland
+466,y.y.y.y,268.727,phish,11075.56231,Portugal
+467,y.y.y.y,252.491,phish,9420.589465,Germany
+468,y.y.y.y,164.585,phish,9331.944491,Germany
+469,y.y.y.y,105.405,phish,8770.633357,United States of America
+470,y.y.y.y,343.963,phish,18795.10194,Brazil
+471,y.y.y.y,148.36,phish,7644.689942,Russian Federation
+472,y.y.y.y,160.491,phish,10885.73053,United States of America
+473,y.y.y.y,159.438,phish,10217.1656,United States of America
+474,y.y.y.y,24.826,phish,430.8168001,Japan
+475,y.y.y.y,6.681,phish,11677.29354,United States of America
+476,y.y.y.y,1843.122,phish,7111.618664,Australia
+477,y.y.y.y,152.016,phish,10877.86385,United States of America
+478,y.y.y.y,146.873,phish,9763.654917,United States of America
+479,y.y.y.y,7.958,phish,10015.22608,United States of America
+480,y.y.y.y,14.796,phish,438.8066392,Japan
+481,y.y.y.y,112.453,phish,10906.70002,United States of America
+482,y.y.y.y,142.573,phish,7696.222743,United States of America
+483,y.y.y.y,6.269,phish,7693.550751,United States of America
+484,y.y.y.y,6.198,phish,8266.960107,United States of America
+485,y.y.y.y,1841.898,phish,7111.618664,Australia
+486,y.y.y.y,141.83,phish,10790.54495,United States of America
+487,y.y.y.y,6.806,phish,7693.550751,United States of America
+488,y.y.y.y,140.226,phish,10149.54428,United States of America
+489,y.y.y.y,133.151,phish,8866.952285,United States of America
+490,y.y.y.y,194.579,phish,7527.115301,Russian Federation
+491,y.y.y.y,1701.241,phish,5800.276558,Indonesia
+492,y.y.y.y,254.019,phish,8838.512003,Poland
+493,y.y.y.y,5.878,phish,10015.22608,United States of America
+494,y.y.y.y,164.337,phish,10856.77093,United States of America
+495,y.y.y.y,7.501,phish,10015.22608,United States of America
+496,y.y.y.y,143.004,phish,8866.952285,United States of America
+497,y.y.y.y,188.223,phish,8834.037153,United States of America
+498,y.y.y.y,146.191,phish,10878.26661,United States of America
+499,y.y.y.y,130.969,phish,8866.952285,United States of America
+500,y.y.y.y,165.513,phish,10856.77093,United States of America
+501,y.y.y.y,235.373,phish,9336.405913,Netherlands
+502,y.y.y.y,249.883,phish,9234.027874,Germany
+503,y.y.y.y,88.866,phish,5790.179645,Indonesia
+504,y.y.y.y,6.363,phish,38.28946944,Japan
+505,y.y.y.y,254.335,phish,9309.378249,Germany
+506,y.y.y.y,256.05,phish,10747.96726,Spain
+507,y.y.y.y,160.46,phish,10217.1656,United States of America
+508,y.y.y.y,276.351,phish,9109.499766,Hungary
+509,y.y.y.y,276.866,phish,18340.52108,Argentina
+510,y.y.y.y,128.69,phish,8866.952285,United States of America
+511,y.y.y.y,157.636,phish,10863.87366,United States of America
+512,y.y.y.y,7.274,phish,8312.842072,United States of America
+513,y.y.y.y,165.393,phish,11692.11128,United States of America
+514,y.y.y.y,112.435,phish,10906.70002,United States of America
+515,y.y.y.y,112.121,phish,10906.70002,United States of America
+516,y.y.y.y,112.211,phish,10906.70002,United States of America
+517,y.y.y.y,141.79,phish,10790.54495,United States of America
+518,y.y.y.y,242.311,phish,9630.847741,Ireland
+519,y.y.y.y,154.303,phish,10149.54428,United States of America
+520,y.y.y.y,114.242,phish,10886.23839,United States of America
+521,y.y.y.y,128.43,phish,11096.31229,United States of America
+522,y.y.y.y,139.375,phish,10790.54495,United States of America
+523,y.y.y.y,74.832,phish,5333.552487,Singapore
+524,y.y.y.y,165.593,phish,10885.73053,United States of America
+525,y.y.y.y,232.927,phish,9336.405913,Netherlands
+526,y.y.y.y,159.334,phish,10150.81396,United States of America
+527,y.y.y.y,141.199,phish,10790.54495,United States of America
+528,y.y.y.y,159.919,phish,10358.42248,Canada
+529,y.y.y.y,7.127,phish,8312.842072,United States of America
+530,y.y.y.y,239.884,phish,9761.425479,France
+531,y.y.y.y,149.45,phish,10548.71948,United States of America
+532,y.y.y.y,7.004,phish,7693.550751,United States of America
+533,y.y.y.y,115.945,phish,8844.159153,United States of America
+534,y.y.y.y,7.31,phish,7693.550751,United States of America
+535,y.y.y.y,7.977,phish,8312.842072,United States of America
+536,y.y.y.y,7.034,phish,8266.960107,United States of America
+537,y.y.y.y,159.006,phish,10885.73053,United States of America
+538,y.y.y.y,6.815,phish,8266.960107,United States of America
+539,y.y.y.y,5.868,phish,8312.842072,United States of America
+540,y.y.y.y,7.283,phish,7705.027097,United States of America
+541,y.y.y.y,132.534,phish,8866.952285,United States of America
+542,y.y.y.y,242.786,phish,8628.600671,Poland
+543,y.y.y.y,140.859,phish,8866.952285,United States of America
+544,y.y.y.y,93.314,phish,4353.450223,Viet Nam
+545,y.y.y.y,101.238,phish,11092.50109,United States of America
+546,y.y.y.y,245.097,phish,9557.828066,France
+547,y.y.y.y,115.798,phish,10886.23839,United States of America
+548,y.y.y.y,6.618,phish,8266.960107,United States of America
+549,y.y.y.y,164.239,phish,11692.11128,United States of America
+550,y.y.y.y,6.367,phish,8266.960107,United States of America
+551,y.y.y.y,284.628,phish,9306.135479,Turkey
+552,y.y.y.y,216.033,phish,9270.227973,Netherlands
+553,y.y.y.y,268.029,phish,9584.481044,Croatia
+554,y.y.y.y,6.602,phish,10809.16543,United States of America
+555,y.y.y.y,108.978,phish,8162.598375,Australia
+556,y.y.y.y,267.1,phish,7527.115301,Russian Federation
+557,y.y.y.y,262.066,phish,7564.459964,Finland
+558,y.y.y.y,244.651,phish,9761.425479,France
+559,y.y.y.y,0.073,phish,14310.25517,-
+560,y.y.y.y,133.853,phish,10864.81987,United States of America
+561,y.y.y.y,7.801,phish,38.28946944,Japan
+562,y.y.y.y,285.204,phish,9496.862772,Belgium
+563,y.y.y.y,7.085,phish,8266.960107,United States of America
+564,y.y.y.y,100.951,phish,5790.179645,Indonesia
+565,y.y.y.y,6.463,phish,7695.663885,United States of America
+566,y.y.y.y,133.01,phish,8866.952285,United States of America
+567,y.y.y.y,405.327,phish,13572.0894,South Africa
+568,y.y.y.y,5.943,phish,38.28946944,Japan
+569,y.y.y.y,251.756,phish,9403.462575,Germany
+570,y.y.y.y,7.528,phish,8266.960107,United States of America
+571,y.y.y.y,10.76,phish,7705.027097,United States of America
+572,y.y.y.y,253.101,phish,9403.462575,Germany
+573,y.y.y.y,277.929,phish,9000.500428,Turkey
+574,y.y.y.y,6.526,phish,8312.842072,United States of America
+575,y.y.y.y,7.087,phish,8266.960107,United States of America
+576,y.y.y.y,105.864,phish,8809.63607,United States of America
+577,y.y.y.y,133.757,phish,8866.952285,United States of America
+578,y.y.y.y,158.622,phish,10390.46409,United States of America
+579,y.y.y.y,112.387,phish,10886.23839,United States of America
+580,y.y.y.y,85.603,phish,5333.552487,Singapore
+581,y.y.y.y,105.427,phish,8809.63607,United States of America
+582,y.y.y.y,98.436,phish,7886.679738,United States of America
+583,y.y.y.y,132.997,phish,9304.757148,United States of America
+584,y.y.y.y,113.299,phish,10906.70002,United States of America
+585,y.y.y.y,6.843,phish,8312.842072,United States of America
+586,y.y.y.y,5.872,phish,8312.842072,United States of America
+587,y.y.y.y,241.031,phish,9308.434641,Netherlands
+588,y.y.y.y,74.19,phish,5333.552487,Singapore
+589,y.y.y.y,93.297,phish,5790.179645,Indonesia
+590,y.y.y.y,7.16,phish,10015.22608,United States of America
+591,y.y.y.y,114.231,phish,8804.705897,United States of America
+592,y.y.y.y,141.327,phish,8866.952285,United States of America
+593,y.y.y.y,132.949,phish,10790.54495,United States of America
+594,y.y.y.y,172.161,phish,10810.94532,United States of America
+595,y.y.y.y,121.919,phish,9304.757148,United States of America
+596,y.y.y.y,140.615,phish,8866.952285,United States of America
+597,y.y.y.y,266.456,phish,8628.600671,Poland
+598,y.y.y.y,257.603,phish,9890.898868,Italy
+599,y.y.y.y,117.055,phish,8325.126975,United States of America
+600,y.y.y.y,112.505,phish,10906.70002,United States of America
+601,y.y.y.y,260.028,phish,9420.589465,Germany
+602,y.y.y.y,130.272,phish,8866.952285,United States of America
+603,y.y.y.y,7.322,phish,8312.842072,United States of America
+604,y.y.y.y,266.484,phish,9120.702721,Czechia
+605,y.y.y.y,49.92,phish,2937.488393,China
+606,y.y.y.y,252.516,phish,8450.509069,Norway
+607,y.y.y.y,167.545,phish,10407.05926,Canada
+608,y.y.y.y,141.422,phish,10790.54495,United States of America
+609,y.y.y.y,171.462,phish,11685.89893,United States of America
+610,y.y.y.y,6.563,phish,8266.960107,United States of America
+611,y.y.y.y,7.043,phish,8912.793198,United States of America
+612,y.y.y.y,6.459,phish,8267.250401,United States of America
+613,y.y.y.y,7.369,phish,7705.027097,United States of America
+614,y.y.y.y,250.345,phish,9336.405913,Netherlands
+615,y.y.y.y,6.706,phish,8266.960107,United States of America
+616,y.y.y.y,6.497,phish,10015.22608,United States of America
+617,y.y.y.y,6.707,phish,8266.960107,United States of America
+618,y.y.y.y,7.513,phish,8312.842072,United States of America
+619,y.y.y.y,306.167,phish,9000.500428,Turkey
+620,y.y.y.y,267.627,phish,7527.115301,Russian Federation
+621,y.y.y.y,168.694,phish,10416.23168,Canada
+622,y.y.y.y,6.354,phish,8312.842072,United States of America
+623,y.y.y.y,130.17,phish,11046.69067,United States of America
+624,y.y.y.y,7.618,phish,8266.960107,United States of America
+625,y.y.y.y,6.408,phish,8912.793198,United States of America
+626,y.y.y.y,163.028,phish,10217.1656,United States of America
+627,y.y.y.y,111.431,phish,4353.450223,Viet Nam
+628,y.y.y.y,263.009,phish,7713.44433,Iran (Islamic Republic of)
+629,y.y.y.y,112.881,phish,10906.70002,United States of America
+630,y.y.y.y,159.754,phish,10217.1656,United States of America
+631,y.y.y.y,165.948,phish,10856.23822,United States of America
+632,y.y.y.y,113.229,phish,10906.70002,United States of America
+633,y.y.y.y,250.894,phish,9336.405913,Netherlands
+634,y.y.y.y,230.015,phish,7644.689942,Russian Federation
+635,y.y.y.y,257.209,phish,8737.332465,Denmark
+636,y.y.y.y,66.597,phish,2914.291032,Hong Kong
+637,y.y.y.y,154.039,phish,10865.88605,United States of America
+638,y.y.y.y,106.676,phish,10399.33656,United States of America
+639,y.y.y.y,253.405,phish,9380.991891,Germany
+640,y.y.y.y,130.922,phish,11046.69067,United States of America
+641,y.y.y.y,7.303,phish,10015.22608,United States of America
+642,y.y.y.y,60.353,phish,2135.984927,China
+643,y.y.y.y,264.719,phish,12241.37972,Belize
+644,y.y.y.y,264.582,phish,12241.37972,Belize
+645,y.y.y.y,265.311,phish,12241.37972,Belize
+646,y.y.y.y,264.678,phish,12241.37972,Belize
+647,y.y.y.y,160.369,phish,10217.1656,United States of America
+648,y.y.y.y,6.991,phish,7695.663885,United States of America
+649,y.y.y.y,11.439,phish,8266.960107,United States of America
+650,y.y.y.y,247.891,phish,9557.90306,France
+651,y.y.y.y,205.97,phish,7527.115301,Russian Federation
+652,y.y.y.y,233.984,phish,9336.405913,Netherlands
+653,y.y.y.y,73.864,phish,1797.533611,China
+654,y.y.y.y,240.552,phish,9557.828066,France
+655,y.y.y.y,5.876,phish,8266.960107,United States of America
+656,y.y.y.y,6.283,phish,8266.960107,United States of America
+657,y.y.y.y,243.873,phish,9492.020449,Germany
+658,y.y.y.y,5.827,phish,11677.29354,United States of America
+659,y.y.y.y,265.816,phish,8628.600671,Poland
+660,y.y.y.y,257.062,phish,9420.589465,Germany
+661,y.y.y.y,260.398,phish,9403.462575,Germany
+662,y.y.y.y,7.089,phish,8266.960107,United States of America
+663,y.y.y.y,7.853,phish,8266.960107,United States of America
+664,y.y.y.y,234.087,phish,9606.045731,United Kingdom of Great Britain and Northern Ireland
+665,y.y.y.y,6.641,phish,8266.960107,United States of America
+666,y.y.y.y,141.152,phish,9629.081305,Switzerland
+667,y.y.y.y,6.665,phish,8266.960107,United States of America
+668,y.y.y.y,16.552,phish,10015.22608,United States of America
+669,y.y.y.y,6.944,phish,10015.22608,United States of America
+670,y.y.y.y,6.393,phish,8266.960107,United States of America
+671,y.y.y.y,140.205,phish,9629.081305,Switzerland
+672,y.y.y.y,108.568,phish,8162.598375,Australia
+673,y.y.y.y,265.296,phish,12241.37972,Belize
+674,y.y.y.y,8.154,phish,11677.29354,United States of America
+675,y.y.y.y,140.223,phish,9629.081305,Switzerland
+676,y.y.y.y,104.501,phish,9120.702721,Czechia
+677,y.y.y.y,139.674,phish,9629.081305,Switzerland
+678,y.y.y.y,145.723,phish,9629.081305,Switzerland
+679,y.y.y.y,6.49,phish,10015.22608,United States of America
+680,y.y.y.y,108.196,phish,8162.598375,Australia
+681,y.y.y.y,264.707,phish,12241.37972,Belize
+682,y.y.y.y,139.127,phish,9629.081305,Switzerland
+683,y.y.y.y,8.524,phish,8266.960107,United States of America
+684,y.y.y.y,139.218,phish,9629.081305,Switzerland
+685,y.y.y.y,220.503,phish,7527.115301,Russian Federation
+686,y.y.y.y,7.222,phish,10015.22608,United States of America
+687,y.y.y.y,7.175,phish,8266.960107,United States of America
+688,y.y.y.y,263.909,phish,12241.37972,Belize
+689,y.y.y.y,265.635,phish,12241.37972,Belize
+690,y.y.y.y,139.713,phish,9629.081305,Switzerland
+691,y.y.y.y,6.792,phish,8266.960107,United States of America
+692,y.y.y.y,264.056,phish,12241.37972,Belize
+693,y.y.y.y,6.93,phish,8266.960107,United States of America
+694,y.y.y.y,141.023,phish,9629.081305,Switzerland

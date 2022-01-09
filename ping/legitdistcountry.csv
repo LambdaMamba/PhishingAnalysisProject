@@ -1,0 +1,804 @@
+,IP,RTTavg,Label,Dist,Country
+0,x.x.x.x,14.639,legit,38.28946944,Japan
+1,x.x.x.x,126.516,legit,7790.839119,United States of America
+2,x.x.x.x,162.145,legit,10885.73053,United States of America
+3,x.x.x.x,165.805,legit,2914.291032,Hong Kong
+4,x.x.x.x,15.398,legit,38.28946944,Japan
+5,x.x.x.x,89.944,legit,5333.552487,Singapore
+6,x.x.x.x,11.652,legit,38.28946944,Japan
+7,x.x.x.x,9.635,legit,8312.842072,United States of America
+8,x.x.x.x,15.782,legit,50.97725342,Japan
+9,x.x.x.x,18.991,legit,38.28946944,Japan
+10,x.x.x.x,17.46,legit,38.28946944,Japan
+11,x.x.x.x,9.082,legit,8265.94019,United States of America
+12,x.x.x.x,15.614,legit,7705.027097,United States of America
+13,x.x.x.x,19.062,legit,38.28946944,Japan
+14,x.x.x.x,12.551,legit,8312.842072,United States of America
+15,x.x.x.x,136.084,legit,9307.520445,United States of America
+16,x.x.x.x,14.324,legit,8266.960107,United States of America
+17,x.x.x.x,12.988,legit,50.97725342,Japan
+18,x.x.x.x,9.238,legit,38.28946944,Japan
+19,x.x.x.x,11.538,legit,8266.960107,United States of America
+20,x.x.x.x,12.115,legit,38.28946944,Japan
+21,x.x.x.x,9.138,legit,38.28946944,Japan
+22,x.x.x.x,264.582,legit,9420.589465,Germany
+23,x.x.x.x,266.771,legit,9420.589465,Germany
+24,x.x.x.x,93.702,legit,9120.702721,Czechia
+25,x.x.x.x,104.64,legit,8328.370505,United States of America
+26,x.x.x.x,6.707,legit,38.28946944,Japan
+27,x.x.x.x,8.891,legit,38.28946944,Japan
+28,x.x.x.x,7.763,legit,38.28946944,Japan
+29,x.x.x.x,6.093,legit,38.28946944,Japan
+30,x.x.x.x,7.8,legit,38.28946944,Japan
+31,x.x.x.x,99.385,legit,7695.663885,United States of America
+32,x.x.x.x,7.153,legit,8266.960107,United States of America
+33,x.x.x.x,114.713,legit,10411.25031,United States of America
+34,x.x.x.x,98.994,legit,10886.61342,United States of America
+35,x.x.x.x,7.538,legit,38.28946944,Japan
+36,x.x.x.x,7.242,legit,38.28946944,Japan
+37,x.x.x.x,7.103,legit,8266.960107,United States of America
+38,x.x.x.x,7.16,legit,8266.960107,United States of America
+39,x.x.x.x,9.247,legit,38.28946944,Japan
+40,x.x.x.x,7.25,legit,8266.960107,United States of America
+41,x.x.x.x,6.814,legit,8266.960107,United States of America
+42,x.x.x.x,6.895,legit,8266.960107,United States of America
+43,x.x.x.x,7.459,legit,8266.960107,United States of America
+44,x.x.x.x,7.287,legit,8266.960107,United States of America
+45,x.x.x.x,239.577,legit,9492.020449,Germany
+46,x.x.x.x,6.28,legit,8266.960107,United States of America
+47,x.x.x.x,6.146,legit,8292.544545,United States of America
+48,x.x.x.x,6.834,legit,8266.960107,United States of America
+49,x.x.x.x,244.074,legit,9557.828066,France
+50,x.x.x.x,244.42,legit,9492.020449,Germany
+51,x.x.x.x,260.609,legit,9403.462575,Germany
+52,x.x.x.x,6.636,legit,8266.960107,United States of America
+53,x.x.x.x,6.314,legit,8266.960107,United States of America
+54,x.x.x.x,6.708,legit,8266.960107,United States of America
+55,x.x.x.x,6.974,legit,8266.960107,United States of America
+56,x.x.x.x,6.363,legit,7693.550751,United States of America
+57,x.x.x.x,7.602,legit,8266.960107,United States of America
+58,x.x.x.x,6.206,legit,8266.960107,United States of America
+59,x.x.x.x,6.436,legit,8266.960107,United States of America
+60,x.x.x.x,6.804,legit,8266.960107,United States of America
+61,x.x.x.x,8.363,legit,8266.960107,United States of America
+62,x.x.x.x,118.732,legit,8292.544545,United States of America
+63,x.x.x.x,7.033,legit,8266.960107,United States of America
+64,x.x.x.x,6.79,legit,8266.960107,United States of America
+65,x.x.x.x,6.168,legit,8266.960107,United States of America
+66,x.x.x.x,7.312,legit,8266.960107,United States of America
+67,x.x.x.x,7.766,legit,8266.960107,United States of America
+68,x.x.x.x,7.761,legit,8266.960107,United States of America
+69,x.x.x.x,8.864,legit,8266.960107,United States of America
+70,x.x.x.x,7.881,legit,8266.960107,United States of America
+71,x.x.x.x,6.885,legit,8266.960107,United States of America
+72,x.x.x.x,260.547,legit,9403.462575,Germany
+73,x.x.x.x,6.955,legit,8266.960107,United States of America
+74,x.x.x.x,7.011,legit,8266.960107,United States of America
+75,x.x.x.x,7.568,legit,8266.960107,United States of America
+76,x.x.x.x,8.201,legit,8266.960107,United States of America
+77,x.x.x.x,6.283,legit,8266.960107,United States of America
+78,x.x.x.x,6.136,legit,8266.960107,United States of America
+79,x.x.x.x,7.771,legit,8266.960107,United States of America
+80,x.x.x.x,7.413,legit,8266.960107,United States of America
+81,x.x.x.x,6.942,legit,8266.960107,United States of America
+82,x.x.x.x,7.556,legit,8266.960107,United States of America
+83,x.x.x.x,7.877,legit,8266.960107,United States of America
+84,x.x.x.x,15.133,legit,8266.960107,United States of America
+85,x.x.x.x,7.345,legit,8266.960107,United States of America
+86,x.x.x.x,7.934,legit,38.28946944,Japan
+87,x.x.x.x,6.877,legit,8266.960107,United States of America
+88,x.x.x.x,6.335,legit,8266.960107,United States of America
+89,x.x.x.x,6.759,legit,8266.960107,United States of America
+90,x.x.x.x,6.78,legit,8266.960107,United States of America
+91,x.x.x.x,247.289,legit,7527.115301,Russian Federation
+92,x.x.x.x,6.487,legit,8266.960107,United States of America
+93,x.x.x.x,6.67,legit,8266.960107,United States of America
+94,x.x.x.x,7.283,legit,8266.960107,United States of America
+95,x.x.x.x,142.2,legit,7693.550751,United States of America
+96,x.x.x.x,7.086,legit,8266.960107,United States of America
+97,x.x.x.x,158.982,legit,10358.42248,Canada
+98,x.x.x.x,7.878,legit,8266.960107,United States of America
+99,x.x.x.x,6.69,legit,8266.960107,United States of America
+100,x.x.x.x,7.342,legit,8266.960107,United States of America
+101,x.x.x.x,7.02,legit,8266.960107,United States of America
+102,x.x.x.x,6.383,legit,7693.550751,United States of America
+103,x.x.x.x,98.352,legit,7695.663885,United States of America
+104,x.x.x.x,6.237,legit,8312.842072,United States of America
+105,x.x.x.x,5.932,legit,38.28946944,Japan
+106,x.x.x.x,119.441,legit,7790.839119,United States of America
+107,x.x.x.x,6.59,legit,10682.44411,United States of America
+108,x.x.x.x,7.893,legit,8266.960107,United States of America
+109,x.x.x.x,236.595,legit,9557.828066,France
+110,x.x.x.x,7.846,legit,8266.960107,United States of America
+111,x.x.x.x,263.517,legit,9420.589465,Germany
+112,x.x.x.x,6.244,legit,5333.552487,Singapore
+113,x.x.x.x,43.71,legit,8312.842072,United States of America
+114,x.x.x.x,6.007,legit,8809.63607,United States of America
+115,x.x.x.x,7.021,legit,8266.960107,United States of America
+116,x.x.x.x,6.342,legit,8312.842072,United States of America
+117,x.x.x.x,6.15,legit,7693.550751,United States of America
+118,x.x.x.x,274.352,legit,8644.725899,Poland
+119,x.x.x.x,7.207,legit,8266.960107,United States of America
+120,x.x.x.x,248.053,legit,9630.847741,Ireland
+121,x.x.x.x,165.142,legit,10885.73053,United States of America
+122,x.x.x.x,60.286,legit,2135.984927,China
+123,x.x.x.x,117.911,legit,7790.839119,United States of America
+124,x.x.x.x,247.588,legit,9630.847741,Ireland
+125,x.x.x.x,158.966,legit,10885.73053,United States of America
+126,x.x.x.x,234.084,legit,9630.847741,Ireland
+127,x.x.x.x,257.604,legit,9630.847741,Ireland
+128,x.x.x.x,243.057,legit,9630.847741,Ireland
+129,x.x.x.x,244.198,legit,9630.847741,Ireland
+130,x.x.x.x,244.402,legit,9630.847741,Ireland
+131,x.x.x.x,6.628,legit,10864.23312,United States of America
+132,x.x.x.x,6.487,legit,8312.842072,United States of America
+133,x.x.x.x,165.308,legit,10856.77093,United States of America
+134,x.x.x.x,7.038,legit,8266.960107,United States of America
+135,x.x.x.x,79.579,legit,5333.552487,Singapore
+136,x.x.x.x,43.542,legit,8312.842072,United States of America
+137,x.x.x.x,7.239,legit,8265.94019,United States of America
+138,x.x.x.x,6.857,legit,8312.842072,United States of America
+139,x.x.x.x,6.605,legit,8266.960107,United States of America
+140,x.x.x.x,6.807,legit,8312.842072,United States of America
+141,x.x.x.x,8.752,legit,38.28946944,Japan
+142,x.x.x.x,9.373,legit,8320.668014,United States of America
+143,x.x.x.x,7.526,legit,38.28946944,Japan
+144,x.x.x.x,7.551,legit,10015.22608,United States of America
+145,x.x.x.x,246.078,legit,9557.828066,France
+146,x.x.x.x,109.753,legit,8800.849579,United States of America
+147,x.x.x.x,149.331,legit,10548.71948,United States of America
+148,x.x.x.x,98.506,legit,7695.663885,United States of America
+149,x.x.x.x,8.232,legit,38.28946944,Japan
+150,x.x.x.x,182.361,legit,8129.791093,Latvia
+151,x.x.x.x,9.059,legit,8266.960107,United States of America
+152,x.x.x.x,158.997,legit,10885.73053,United States of America
+153,x.x.x.x,8.072,legit,8266.960107,United States of America
+154,x.x.x.x,7.107,legit,38.28946944,Japan
+155,x.x.x.x,6.043,legit,38.28946944,Japan
+156,x.x.x.x,7.776,legit,38.28946944,Japan
+157,x.x.x.x,6.627,legit,38.28946944,Japan
+158,x.x.x.x,6.876,legit,8267.250401,United States of America
+159,x.x.x.x,7.674,legit,8266.960107,United States of America
+160,x.x.x.x,246.744,legit,9403.462575,Germany
+161,x.x.x.x,6.12,legit,38.28946944,Japan
+162,x.x.x.x,7.459,legit,38.28946944,Japan
+163,x.x.x.x,6.835,legit,8266.960107,United States of America
+164,x.x.x.x,5.737,legit,8267.250401,United States of America
+165,x.x.x.x,257.978,legit,8628.600671,Poland
+166,x.x.x.x,6.364,legit,8266.960107,United States of America
+167,x.x.x.x,6.215,legit,7705.027097,United States of America
+168,x.x.x.x,6.996,legit,7705.027097,United States of America
+169,x.x.x.x,6.497,legit,7705.027097,United States of America
+170,x.x.x.x,6.153,legit,7705.027097,United States of America
+171,x.x.x.x,6.544,legit,7705.027097,United States of America
+172,x.x.x.x,7.554,legit,7705.027097,United States of America
+173,x.x.x.x,6.808,legit,7705.027097,United States of America
+174,x.x.x.x,7.413,legit,7705.027097,United States of America
+175,x.x.x.x,6.784,legit,7705.027097,United States of America
+176,x.x.x.x,5.987,legit,7705.027097,United States of America
+177,x.x.x.x,6.05,legit,7705.027097,United States of America
+178,x.x.x.x,6.076,legit,7705.027097,United States of America
+179,x.x.x.x,6.178,legit,7705.027097,United States of America
+180,x.x.x.x,6.525,legit,7705.027097,United States of America
+181,x.x.x.x,7.746,legit,7705.027097,United States of America
+182,x.x.x.x,7.796,legit,7705.027097,United States of America
+183,x.x.x.x,7.341,legit,7705.027097,United States of America
+184,x.x.x.x,6.723,legit,10864.23312,United States of America
+185,x.x.x.x,6.321,legit,8265.94019,United States of America
+186,x.x.x.x,6.328,legit,8266.960107,United States of America
+187,x.x.x.x,253.586,legit,9492.020449,Germany
+188,x.x.x.x,7.783,legit,8312.842072,United States of America
+189,x.x.x.x,167.636,legit,10863.01201,United States of America
+190,x.x.x.x,256.704,legit,9331.944491,Germany
+191,x.x.x.x,306.286,legit,9331.944491,Germany
+192,x.x.x.x,5.721,legit,8312.842072,United States of America
+193,x.x.x.x,5.919,legit,8267.250401,United States of America
+194,x.x.x.x,7.046,legit,8266.960107,United States of America
+195,x.x.x.x,239.795,legit,9557.828066,France
+196,x.x.x.x,238.737,legit,9503.675658,Belgium
+197,x.x.x.x,7.095,legit,38.28946944,Japan
+198,x.x.x.x,109.738,legit,8796.477776,United States of America
+199,x.x.x.x,7.237,legit,8266.960107,United States of America
+200,x.x.x.x,6.71,legit,7693.550751,United States of America
+201,x.x.x.x,251.384,legit,8628.600671,Poland
+202,x.x.x.x,6.809,legit,38.28946944,Japan
+203,x.x.x.x,6.583,legit,8266.960107,United States of America
+204,x.x.x.x,7.649,legit,8266.960107,United States of America
+205,x.x.x.x,6.827,legit,8266.960107,United States of America
+206,x.x.x.x,6.631,legit,8266.960107,United States of America
+207,x.x.x.x,6.544,legit,38.28946944,Japan
+208,x.x.x.x,7.039,legit,8266.960107,United States of America
+209,x.x.x.x,6.989,legit,10399.16766,United States of America
+210,x.x.x.x,7.293,legit,8266.960107,United States of America
+211,x.x.x.x,7.832,legit,38.28946944,Japan
+212,x.x.x.x,7.416,legit,8266.960107,United States of America
+213,x.x.x.x,8.243,legit,8266.960107,United States of America
+214,x.x.x.x,6.527,legit,38.28946944,Japan
+215,x.x.x.x,6.358,legit,8266.960107,United States of America
+216,x.x.x.x,6.798,legit,8266.960107,United States of America
+217,x.x.x.x,6.66,legit,8266.960107,United States of America
+218,x.x.x.x,7.255,legit,8312.842072,United States of America
+219,x.x.x.x,7.004,legit,8267.250401,United States of America
+220,x.x.x.x,7.933,legit,8266.960107,United States of America
+221,x.x.x.x,6.18,legit,8312.842072,United States of America
+222,x.x.x.x,7.247,legit,8266.960107,United States of America
+223,x.x.x.x,6.116,legit,8312.842072,United States of America
+224,x.x.x.x,6.376,legit,8312.842072,United States of America
+225,x.x.x.x,6.064,legit,8312.842072,United States of America
+226,x.x.x.x,5.942,legit,8312.842072,United States of America
+227,x.x.x.x,6.939,legit,8312.842072,United States of America
+228,x.x.x.x,8.554,legit,8266.960107,United States of America
+229,x.x.x.x,6.95,legit,8266.960107,United States of America
+230,x.x.x.x,7.184,legit,38.28946944,Japan
+231,x.x.x.x,6.938,legit,8312.842072,United States of America
+232,x.x.x.x,105.551,legit,10885.73053,United States of America
+233,x.x.x.x,7.465,legit,8266.960107,United States of America
+234,x.x.x.x,105.539,legit,8265.219772,United States of America
+235,x.x.x.x,6.462,legit,10809.16543,United States of America
+236,x.x.x.x,6.801,legit,8292.544545,United States of America
+237,x.x.x.x,7.185,legit,38.28946944,Japan
+238,x.x.x.x,6.371,legit,8312.842072,United States of America
+239,x.x.x.x,6.765,legit,38.28946944,Japan
+240,x.x.x.x,6.388,legit,8266.960107,United States of America
+241,x.x.x.x,6.453,legit,5333.552487,Singapore
+242,x.x.x.x,98.85,legit,8265.219772,United States of America
+243,x.x.x.x,6.5,legit,38.28946944,Japan
+244,x.x.x.x,6.481,legit,38.28946944,Japan
+245,x.x.x.x,79.532,legit,5333.552487,Singapore
+246,x.x.x.x,6.858,legit,8266.960107,United States of America
+247,x.x.x.x,6.455,legit,8312.842072,United States of America
+248,x.x.x.x,6.49,legit,38.28946944,Japan
+249,x.x.x.x,6.222,legit,38.28946944,Japan
+250,x.x.x.x,164.822,legit,8266.960107,United States of America
+251,x.x.x.x,98.076,legit,10886.61342,United States of America
+252,x.x.x.x,6.77,legit,8266.960107,United States of America
+253,x.x.x.x,161.176,legit,10358.42248,Canada
+254,x.x.x.x,7.428,legit,8266.960107,United States of America
+255,x.x.x.x,239.104,legit,9270.227973,Netherlands
+256,x.x.x.x,241.73,legit,10525.52764,United States of America
+257,x.x.x.x,6.907,legit,8266.960107,United States of America
+258,x.x.x.x,265.234,legit,7527.115301,Russian Federation
+259,x.x.x.x,7.611,legit,8265.94019,United States of America
+260,x.x.x.x,7.254,legit,8265.94019,United States of America
+261,x.x.x.x,6.394,legit,38.28946944,Japan
+262,x.x.x.x,6.528,legit,8312.842072,United States of America
+263,x.x.x.x,255.614,legit,8628.600671,Poland
+264,x.x.x.x,6.585,legit,8266.960107,United States of America
+265,x.x.x.x,5.972,legit,8267.250401,United States of America
+266,x.x.x.x,5.87,legit,38.28946944,Japan
+267,x.x.x.x,6.514,legit,8266.960107,United States of America
+268,x.x.x.x,8.312,legit,8266.960107,United States of America
+269,x.x.x.x,6.826,legit,38.28946944,Japan
+270,x.x.x.x,6.699,legit,8266.960107,United States of America
+271,x.x.x.x,7.162,legit,8266.960107,United States of America
+272,x.x.x.x,244.723,legit,9761.425479,France
+273,x.x.x.x,6.717,legit,8312.842072,United States of America
+274,x.x.x.x,118.503,legit,7790.839119,United States of America
+275,x.x.x.x,7.658,legit,8312.842072,United States of America
+276,x.x.x.x,113.597,legit,8266.960107,United States of America
+277,x.x.x.x,7.471,legit,8266.960107,United States of America
+278,x.x.x.x,6.545,legit,8312.842072,United States of America
+279,x.x.x.x,6.361,legit,8266.960107,United States of America
+280,x.x.x.x,115.774,legit,8355.730435,United States of America
+281,x.x.x.x,229.126,legit,9606.045731,United Kingdom of Great Britain and Northern Ireland
+282,x.x.x.x,5.771,legit,38.28946944,Japan
+283,x.x.x.x,243.92,legit,9380.991891,Germany
+284,x.x.x.x,254.01,legit,9331.944491,Germany
+285,x.x.x.x,6.761,legit,8266.960107,United States of America
+286,x.x.x.x,5.783,legit,10886.61342,United States of America
+287,x.x.x.x,7.331,legit,38.28946944,Japan
+288,x.x.x.x,7.563,legit,38.28946944,Japan
+289,x.x.x.x,8.112,legit,38.28946944,Japan
+290,x.x.x.x,7.194,legit,10015.22608,United States of America
+291,x.x.x.x,7.605,legit,8266.960107,United States of America
+292,x.x.x.x,7.066,legit,8312.842072,United States of America
+293,x.x.x.x,80.507,legit,5333.552487,Singapore
+294,x.x.x.x,7.216,legit,38.28946944,Japan
+295,x.x.x.x,7.779,legit,38.28946944,Japan
+296,x.x.x.x,98.852,legit,7695.663885,United States of America
+297,x.x.x.x,98.138,legit,8795.530604,United States of America
+298,x.x.x.x,98.682,legit,8795.530604,United States of America
+299,x.x.x.x,99.198,legit,7695.663885,United States of America
+300,x.x.x.x,244.9,legit,9606.045731,United Kingdom of Great Britain and Northern Ireland
+301,x.x.x.x,6.732,legit,38.28946944,Japan
+302,x.x.x.x,7.278,legit,38.28946944,Japan
+303,x.x.x.x,6.464,legit,38.28946944,Japan
+304,x.x.x.x,6.531,legit,8266.960107,United States of America
+305,x.x.x.x,5.811,legit,8312.842072,United States of America
+306,x.x.x.x,7.129,legit,8312.842072,United States of America
+307,x.x.x.x,164.897,legit,10845.54472,United States of America
+308,x.x.x.x,229.991,legit,9336.405913,Netherlands
+309,x.x.x.x,249.475,legit,9255.717672,Netherlands
+310,x.x.x.x,252.575,legit,8628.600671,Poland
+311,x.x.x.x,7.808,legit,8912.793198,United States of America
+312,x.x.x.x,7.493,legit,8266.960107,United States of America
+313,x.x.x.x,6.529,legit,1193.446112,Korea (Republic of)
+314,x.x.x.x,239.586,legit,8628.600671,Poland
+315,x.x.x.x,6.605,legit,8312.842072,United States of America
+316,x.x.x.x,6.802,legit,8312.842072,United States of America
+317,x.x.x.x,6.439,legit,8266.960107,United States of America
+318,x.x.x.x,6.455,legit,8266.960107,United States of America
+319,x.x.x.x,6.402,legit,8266.960107,United States of America
+320,x.x.x.x,7.105,legit,7693.550751,United States of America
+321,x.x.x.x,286.141,legit,8912.45758,Poland
+322,x.x.x.x,252.386,legit,8357.113801,Sweden
+323,x.x.x.x,7.072,legit,8266.960107,United States of America
+324,x.x.x.x,7.947,legit,8266.960107,United States of America
+325,x.x.x.x,6.961,legit,8266.960107,United States of America
+326,x.x.x.x,5.926,legit,5333.552487,Singapore
+327,x.x.x.x,8.316,legit,8266.960107,United States of America
+328,x.x.x.x,8.269,legit,8912.793198,United States of America
+329,x.x.x.x,8.102,legit,8266.960107,United States of America
+330,x.x.x.x,137.54,legit,7850.333933,United States of America
+331,x.x.x.x,96.89,legit,11112.39725,United States of America
+332,x.x.x.x,100.363,legit,8265.219772,United States of America
+333,x.x.x.x,7.196,legit,8266.960107,United States of America
+334,x.x.x.x,161.007,legit,10217.1656,United States of America
+335,x.x.x.x,7.43,legit,8266.960107,United States of America
+336,x.x.x.x,118.3,legit,7790.839119,United States of America
+337,x.x.x.x,167.452,legit,10866.63481,United States of America
+338,x.x.x.x,246.604,legit,9022.267908,Germany
+339,x.x.x.x,6.837,legit,8266.960107,United States of America
+340,x.x.x.x,246.778,legit,9630.847741,Ireland
+341,x.x.x.x,7.032,legit,8267.250401,United States of America
+342,x.x.x.x,6.776,legit,8312.842072,United States of America
+343,x.x.x.x,6.067,legit,38.28946944,Japan
+344,x.x.x.x,6.198,legit,38.28946944,Japan
+345,x.x.x.x,258.055,legit,8628.600671,Poland
+346,x.x.x.x,7.388,legit,8312.842072,United States of America
+347,x.x.x.x,247.567,legit,9630.847741,Ireland
+348,x.x.x.x,7.705,legit,38.28946944,Japan
+349,x.x.x.x,7.656,legit,10540.68054,United States of America
+350,x.x.x.x,7.552,legit,8266.960107,United States of America
+351,x.x.x.x,8.785,legit,38.28946944,Japan
+352,x.x.x.x,5.719,legit,10682.44411,United States of America
+353,x.x.x.x,234.019,legit,9336.405913,Netherlands
+354,x.x.x.x,6.915,legit,8266.960107,United States of America
+355,x.x.x.x,6.468,legit,8266.960107,United States of America
+356,x.x.x.x,86.231,legit,2914.291032,Hong Kong
+357,x.x.x.x,9.218,legit,38.28946944,Japan
+358,x.x.x.x,6.836,legit,8266.960107,United States of America
+359,x.x.x.x,6.54,legit,8266.960107,United States of America
+360,x.x.x.x,6.974,legit,8266.960107,United States of America
+361,x.x.x.x,6.417,legit,8312.842072,United States of America
+362,x.x.x.x,6.675,legit,8312.842072,United States of America
+363,x.x.x.x,242.474,legit,9215.223198,Germany
+364,x.x.x.x,242.472,legit,9215.223198,Germany
+365,x.x.x.x,242.082,legit,9215.223198,Germany
+366,x.x.x.x,241.963,legit,9215.223198,Germany
+367,x.x.x.x,242.511,legit,9215.223198,Germany
+368,x.x.x.x,243.04,legit,9215.223198,Germany
+369,x.x.x.x,131.84,legit,9307.520445,United States of America
+370,x.x.x.x,6.472,legit,8312.842072,United States of America
+371,x.x.x.x,6.158,legit,8312.842072,United States of America
+372,x.x.x.x,6.786,legit,8312.842072,United States of America
+373,x.x.x.x,263.527,legit,8215.326735,Sweden
+374,x.x.x.x,6.773,legit,38.28946944,Japan
+375,x.x.x.x,142.744,legit,10398.95566,United States of America
+376,x.x.x.x,110.5,legit,8310.804816,United States of America
+377,x.x.x.x,6.431,legit,38.28946944,Japan
+378,x.x.x.x,43.791,legit,8312.842072,United States of America
+379,x.x.x.x,112.87,legit,8320.668014,United States of America
+380,x.x.x.x,247.174,legit,9420.589465,Germany
+381,x.x.x.x,5.755,legit,8267.250401,United States of America
+382,x.x.x.x,245.907,legit,9138.579575,Germany
+383,x.x.x.x,6.567,legit,38.28946944,Japan
+384,x.x.x.x,6.592,legit,8266.960107,United States of America
+385,x.x.x.x,238.714,legit,9290.051253,Netherlands
+386,x.x.x.x,6.754,legit,38.28946944,Japan
+387,x.x.x.x,6.51,legit,8267.250401,United States of America
+388,x.x.x.x,9.958,legit,10015.22608,United States of America
+389,x.x.x.x,6.486,legit,8267.250401,United States of America
+390,x.x.x.x,237.37,legit,9606.045731,United Kingdom of Great Britain and Northern Ireland
+391,x.x.x.x,249.764,legit,9649.123155,United Kingdom of Great Britain and Northern Ireland
+392,x.x.x.x,6.243,legit,7705.027097,United States of America
+393,x.x.x.x,6.937,legit,8267.250401,United States of America
+394,x.x.x.x,7.021,legit,8266.960107,United States of America
+395,x.x.x.x,236.873,legit,9430.01173,Netherlands
+396,x.x.x.x,7.259,legit,38.28946944,Japan
+397,x.x.x.x,6.547,legit,38.28946944,Japan
+398,x.x.x.x,113.042,legit,8266.960107,United States of America
+399,x.x.x.x,6.399,legit,38.28946944,Japan
+400,x.x.x.x,6.859,legit,38.28946944,Japan
+401,x.x.x.x,6.946,legit,8266.960107,United States of America
+402,x.x.x.x,6.084,legit,8312.842072,United States of America
+403,x.x.x.x,7.03,legit,8267.250401,United States of America
+404,x.x.x.x,6.436,legit,8267.250401,United States of America
+405,x.x.x.x,7.564,legit,8312.842072,United States of America
+406,x.x.x.x,6.852,legit,8267.250401,United States of America
+407,x.x.x.x,6.337,legit,8312.842072,United States of America
+408,x.x.x.x,6.199,legit,8267.250401,United States of America
+409,x.x.x.x,6.783,legit,8312.842072,United States of America
+410,x.x.x.x,7.363,legit,8312.842072,United States of America
+411,x.x.x.x,7.661,legit,8266.960107,United States of America
+412,x.x.x.x,6.762,legit,8320.668014,United States of America
+413,x.x.x.x,6.064,legit,38.28946944,Japan
+414,x.x.x.x,98.945,legit,7695.663885,United States of America
+415,x.x.x.x,257.958,legit,7644.689942,Russian Federation
+416,x.x.x.x,7.548,legit,38.28946944,Japan
+417,x.x.x.x,111.663,legit,11999.50377,United States of America
+418,x.x.x.x,246.977,legit,10865.88605,United States of America
+419,x.x.x.x,7.303,legit,7693.550751,United States of America
+420,x.x.x.x,6.246,legit,8266.960107,United States of America
+421,x.x.x.x,5.933,legit,8266.960107,United States of America
+422,x.x.x.x,7.437,legit,7693.550751,United States of America
+423,x.x.x.x,6.932,legit,8312.842072,United States of America
+424,x.x.x.x,249.599,legit,10865.88605,United States of America
+425,x.x.x.x,6.861,legit,8312.842072,United States of America
+426,x.x.x.x,245.149,legit,10865.88605,United States of America
+427,x.x.x.x,6.604,legit,8266.960107,United States of America
+428,x.x.x.x,105.589,legit,8266.960107,United States of America
+429,x.x.x.x,101.746,legit,10738.56075,United States of America
+430,x.x.x.x,6.561,legit,8266.960107,United States of America
+431,x.x.x.x,6.046,legit,38.28946944,Japan
+432,x.x.x.x,7.663,legit,8266.960107,United States of America
+433,x.x.x.x,6.648,legit,10015.22608,United States of America
+434,x.x.x.x,287.37,legit,8628.600671,Poland
+435,x.x.x.x,6.945,legit,8266.960107,United States of America
+436,x.x.x.x,7.32,legit,8266.960107,United States of America
+437,x.x.x.x,7.683,legit,7693.550751,United States of America
+438,x.x.x.x,6.68,legit,50.97725342,Japan
+439,x.x.x.x,8.301,legit,10864.23312,United States of America
+440,x.x.x.x,165.843,legit,10305.38377,United States of America
+441,x.x.x.x,7.092,legit,38.28946944,Japan
+442,x.x.x.x,258.85,legit,9403.462575,Germany
+443,x.x.x.x,8.348,legit,8266.960107,United States of America
+444,x.x.x.x,7.418,legit,8266.960107,United States of America
+445,x.x.x.x,261.219,legit,9331.944491,Germany
+446,x.x.x.x,7.734,legit,8266.960107,United States of America
+447,x.x.x.x,165.564,legit,10845.54472,United States of America
+448,x.x.x.x,98.873,legit,7695.663885,United States of America
+449,x.x.x.x,258.211,legit,8628.600671,Poland
+450,x.x.x.x,6.682,legit,8266.960107,United States of America
+451,x.x.x.x,6.062,legit,8266.960107,United States of America
+452,x.x.x.x,6.539,legit,8266.960107,United States of America
+453,x.x.x.x,6.612,legit,8266.960107,United States of America
+454,x.x.x.x,6.651,legit,8266.960107,United States of America
+455,x.x.x.x,6.691,legit,38.28946944,Japan
+456,x.x.x.x,7.13,legit,38.28946944,Japan
+457,x.x.x.x,7.453,legit,7695.663885,United States of America
+458,x.x.x.x,7.346,legit,8266.960107,United States of America
+459,x.x.x.x,249.69,legit,8628.600671,Poland
+460,x.x.x.x,6.211,legit,8266.960107,United States of America
+461,x.x.x.x,240.607,legit,9577.073467,France
+462,x.x.x.x,7.119,legit,8267.250401,United States of America
+463,x.x.x.x,6.82,legit,7693.550751,United States of America
+464,x.x.x.x,6.873,legit,8266.960107,United States of America
+465,x.x.x.x,6.727,legit,8312.842072,United States of America
+466,x.x.x.x,7.596,legit,8312.842072,United States of America
+467,x.x.x.x,7.498,legit,8312.842072,United States of America
+468,x.x.x.x,7.609,legit,8312.842072,United States of America
+469,x.x.x.x,6.513,legit,8266.960107,United States of America
+470,x.x.x.x,257.472,legit,7644.689942,Russian Federation
+471,x.x.x.x,6.102,legit,7705.027097,United States of America
+472,x.x.x.x,6.143,legit,7705.027097,United States of America
+473,x.x.x.x,6.967,legit,8266.960107,United States of America
+474,x.x.x.x,0.071,legit,14310.25517,-
+475,x.x.x.x,249.97,legit,8628.600671,Poland
+476,x.x.x.x,6.848,legit,8267.250401,United States of America
+477,x.x.x.x,6.217,legit,38.28946944,Japan
+478,x.x.x.x,251.415,legit,8628.600671,Poland
+479,x.x.x.x,163.168,legit,10838.01281,United States of America
+480,x.x.x.x,7.238,legit,38.28946944,Japan
+481,x.x.x.x,40.877,legit,2135.984927,China
+482,x.x.x.x,8.131,legit,38.28946944,Japan
+483,x.x.x.x,6.323,legit,38.28946944,Japan
+484,x.x.x.x,6.968,legit,8312.842072,United States of America
+485,x.x.x.x,13.291,legit,421.6293193,Japan
+486,x.x.x.x,8.349,legit,8312.842072,United States of America
+487,x.x.x.x,166.191,legit,11045.29479,United States of America
+488,x.x.x.x,243.491,legit,9336.405913,Netherlands
+489,x.x.x.x,8.505,legit,8312.842072,United States of America
+490,x.x.x.x,7.173,legit,8312.842072,United States of America
+491,x.x.x.x,9.375,legit,8312.842072,United States of America
+492,x.x.x.x,260.075,legit,8235.008938,Lithuania
+493,x.x.x.x,7.116,legit,38.28946944,Japan
+494,x.x.x.x,7.875,legit,8266.960107,United States of America
+495,x.x.x.x,6.525,legit,8266.960107,United States of America
+496,x.x.x.x,6.176,legit,10886.61342,United States of America
+497,x.x.x.x,7.985,legit,8266.960107,United States of America
+498,x.x.x.x,7.124,legit,8266.960107,United States of America
+499,x.x.x.x,7.668,legit,8266.960107,United States of America
+500,x.x.x.x,6.112,legit,38.28946944,Japan
+501,x.x.x.x,7.767,legit,8266.960107,United States of America
+502,x.x.x.x,252.06,legit,9336.405913,Netherlands
+503,x.x.x.x,243.564,legit,9535.923159,Luxembourg
+504,x.x.x.x,6.835,legit,8266.960107,United States of America
+505,x.x.x.x,7.176,legit,38.28946944,Japan
+506,x.x.x.x,6.395,legit,38.28946944,Japan
+507,x.x.x.x,7.432,legit,38.28946944,Japan
+508,x.x.x.x,6.725,legit,1193.446112,Korea (Republic of)
+509,x.x.x.x,7.191,legit,8266.960107,United States of America
+510,x.x.x.x,6.38,legit,8267.250401,United States of America
+511,x.x.x.x,6.735,legit,8267.250401,United States of America
+512,x.x.x.x,146.875,legit,8816.452752,United States of America
+513,x.x.x.x,242.878,legit,8628.600671,Poland
+514,x.x.x.x,9.788,legit,10015.22608,United States of America
+515,x.x.x.x,137.729,legit,7850.333933,United States of America
+516,x.x.x.x,51.85,legit,2128.800819,Taiwan (Province of China)
+517,x.x.x.x,7.252,legit,8266.960107,United States of America
+518,x.x.x.x,122.75,legit,11046.69067,United States of America
+519,x.x.x.x,255.404,legit,9403.462575,Germany
+520,x.x.x.x,5.638,legit,38.28946944,Japan
+521,x.x.x.x,230.906,legit,9641.335143,United Kingdom of Great Britain and Northern Ireland
+522,x.x.x.x,6.259,legit,8267.250401,United States of America
+523,x.x.x.x,186.664,legit,8344.137582,United States of America
+524,x.x.x.x,7.548,legit,8266.960107,United States of America
+525,x.x.x.x,6.626,legit,38.28946944,Japan
+526,x.x.x.x,12.285,legit,7693.550751,United States of America
+527,x.x.x.x,6.65,legit,8312.842072,United States of America
+528,x.x.x.x,117.502,legit,8974.696066,United States of America
+529,x.x.x.x,105.536,legit,8292.544545,United States of America
+530,x.x.x.x,6.576,legit,8267.250401,United States of America
+531,x.x.x.x,7.674,legit,8266.960107,United States of America
+532,x.x.x.x,8.255,legit,38.28946944,Japan
+533,x.x.x.x,6.619,legit,8266.960107,United States of America
+534,x.x.x.x,6.307,legit,7693.550751,United States of America
+535,x.x.x.x,118.793,legit,8355.730435,United States of America
+536,x.x.x.x,7.881,legit,8266.960107,United States of America
+537,x.x.x.x,236.887,legit,10713.00435,United States of America
+538,x.x.x.x,0.06,legit,14310.25517,-
+539,x.x.x.x,6.941,legit,8312.842072,United States of America
+540,x.x.x.x,6.85,legit,8266.960107,United States of America
+541,x.x.x.x,7.862,legit,8267.250401,United States of America
+542,x.x.x.x,5.828,legit,8266.960107,United States of America
+543,x.x.x.x,150.416,legit,10148.39521,United States of America
+544,x.x.x.x,113.382,legit,9333.143691,United States of America
+545,x.x.x.x,7.373,legit,8266.960107,United States of America
+546,x.x.x.x,6.353,legit,8267.250401,United States of America
+547,x.x.x.x,6.933,legit,38.28946944,Japan
+548,x.x.x.x,79.324,legit,5333.552487,Singapore
+549,x.x.x.x,79.882,legit,5333.552487,Singapore
+550,x.x.x.x,7.948,legit,7705.027097,United States of America
+551,x.x.x.x,7.287,legit,38.28946944,Japan
+552,x.x.x.x,6.648,legit,7705.027097,United States of America
+553,x.x.x.x,6.962,legit,7695.663885,United States of America
+554,x.x.x.x,284.427,legit,8912.45758,Poland
+555,x.x.x.x,112.624,legit,7872.019054,Canada
+556,x.x.x.x,7.598,legit,8266.960107,United States of America
+557,x.x.x.x,6.866,legit,8266.960107,United States of America
+558,x.x.x.x,231.33,legit,9767.312419,France
+559,x.x.x.x,7.994,legit,8266.960107,United States of America
+560,x.x.x.x,8.159,legit,8266.960107,United States of America
+561,x.x.x.x,123.666,legit,9240.612739,United States of America
+562,x.x.x.x,6.669,legit,38.28946944,Japan
+563,x.x.x.x,7.411,legit,38.28946944,Japan
+564,x.x.x.x,5.747,legit,38.28946944,Japan
+565,x.x.x.x,116.575,legit,8266.960107,United States of America
+566,x.x.x.x,7.478,legit,8266.960107,United States of America
+567,x.x.x.x,7.079,legit,8266.960107,United States of America
+568,x.x.x.x,151.693,legit,10150.49571,United States of America
+569,x.x.x.x,7.676,legit,8266.960107,United States of America
+570,x.x.x.x,244.877,legit,9557.828066,France
+571,x.x.x.x,7.515,legit,8266.960107,United States of America
+572,x.x.x.x,99.884,legit,8328.370505,United States of America
+573,x.x.x.x,99.249,legit,7695.663885,United States of America
+574,x.x.x.x,140.975,legit,10536.81932,United States of America
+575,x.x.x.x,228.738,legit,9606.045731,United Kingdom of Great Britain and Northern Ireland
+576,x.x.x.x,10.977,legit,8267.250401,United States of America
+577,x.x.x.x,5.941,legit,38.28946944,Japan
+578,x.x.x.x,8.157,legit,8265.94019,United States of America
+579,x.x.x.x,261.103,legit,8628.600671,Poland
+580,x.x.x.x,7.199,legit,8266.960107,United States of America
+581,x.x.x.x,6.856,legit,8266.960107,United States of America
+582,x.x.x.x,6.106,legit,8267.250401,United States of America
+583,x.x.x.x,263.301,legit,8628.600671,Poland
+584,x.x.x.x,8.105,legit,38.28946944,Japan
+585,x.x.x.x,6.885,legit,38.28946944,Japan
+586,x.x.x.x,5.662,legit,10886.61342,United States of America
+587,x.x.x.x,6.173,legit,8312.842072,United States of America
+588,x.x.x.x,6.707,legit,7693.550751,United States of America
+589,x.x.x.x,7.017,legit,10015.22608,United States of America
+590,x.x.x.x,6.095,legit,8266.960107,United States of America
+591,x.x.x.x,7.412,legit,10886.61342,United States of America
+592,x.x.x.x,7.317,legit,8312.842072,United States of America
+593,x.x.x.x,178.652,legit,7527.115301,Russian Federation
+594,x.x.x.x,176.197,legit,10885.73053,United States of America
+595,x.x.x.x,6.732,legit,8266.960107,United States of America
+596,x.x.x.x,6.919,legit,8266.960107,United States of America
+597,x.x.x.x,6.628,legit,38.28946944,Japan
+598,x.x.x.x,212.958,legit,7859.656716,Russian Federation
+599,x.x.x.x,242.303,legit,9792.280188,Switzerland
+600,x.x.x.x,5.948,legit,8267.250401,United States of America
+601,x.x.x.x,6.471,legit,7693.550751,United States of America
+602,x.x.x.x,7.413,legit,10807.29594,United States of America
+603,x.x.x.x,249.798,legit,8812.433994,Poland
+604,x.x.x.x,6.881,legit,8266.960107,United States of America
+605,x.x.x.x,7.689,legit,8266.960107,United States of America
+606,x.x.x.x,7.062,legit,10682.44411,United States of America
+607,x.x.x.x,6.265,legit,10682.44411,United States of America
+608,x.x.x.x,5.95,legit,8266.960107,United States of America
+609,x.x.x.x,7.303,legit,8266.960107,United States of America
+610,x.x.x.x,244.922,legit,10298.94129,France
+611,x.x.x.x,7.501,legit,8266.960107,United States of America
+612,x.x.x.x,7.768,legit,8312.842072,United States of America
+613,x.x.x.x,7.016,legit,8266.960107,United States of America
+614,x.x.x.x,97.936,legit,7695.663885,United States of America
+615,x.x.x.x,261.222,legit,9420.589465,Germany
+616,x.x.x.x,7.417,legit,38.28946944,Japan
+617,x.x.x.x,6.381,legit,38.28946944,Japan
+618,x.x.x.x,7.251,legit,8266.960107,United States of America
+619,x.x.x.x,7.769,legit,38.28946944,Japan
+620,x.x.x.x,13.849,legit,7527.115301,Russian Federation
+621,x.x.x.x,257.589,legit,8628.600671,Poland
+622,x.x.x.x,5.81,legit,38.28946944,Japan
+623,x.x.x.x,5.901,legit,38.28946944,Japan
+624,x.x.x.x,6.556,legit,1193.446112,Korea (Republic of)
+625,x.x.x.x,7.063,legit,8312.842072,United States of America
+626,x.x.x.x,6.637,legit,8809.63607,United States of America
+627,x.x.x.x,80.789,legit,5333.552487,Singapore
+628,x.x.x.x,160.167,legit,10885.73053,United States of America
+629,x.x.x.x,5.643,legit,8809.63607,United States of America
+630,x.x.x.x,6.147,legit,8267.250401,United States of America
+631,x.x.x.x,6.518,legit,8267.250401,United States of America
+632,x.x.x.x,6.588,legit,8266.960107,United States of America
+633,x.x.x.x,164.607,legit,10896.28928,United States of America
+634,x.x.x.x,6.48,legit,38.28946944,Japan
+635,x.x.x.x,5.941,legit,8266.960107,United States of America
+636,x.x.x.x,6.266,legit,8312.842072,United States of America
+637,x.x.x.x,6.625,legit,8265.94019,United States of America
+638,x.x.x.x,6.716,legit,10807.29594,United States of America
+639,x.x.x.x,119.909,legit,10812.38991,United States of America
+640,x.x.x.x,6.631,legit,10900.067,United States of America
+641,x.x.x.x,7.97,legit,7693.550751,United States of America
+642,x.x.x.x,5.823,legit,38.28946944,Japan
+643,x.x.x.x,5.721,legit,10886.61342,United States of America
+644,x.x.x.x,5.772,legit,10886.61342,United States of America
+645,x.x.x.x,6.702,legit,8266.960107,United States of America
+646,x.x.x.x,7.236,legit,8266.960107,United States of America
+647,x.x.x.x,251.935,legit,9384.897694,Germany
+648,x.x.x.x,7.063,legit,38.28946944,Japan
+649,x.x.x.x,6.586,legit,38.28946944,Japan
+650,x.x.x.x,259.073,legit,8833.661856,Poland
+651,x.x.x.x,9.216,legit,38.28946944,Japan
+652,x.x.x.x,7.178,legit,8266.960107,United States of America
+653,x.x.x.x,108.386,legit,8974.696066,United States of America
+654,x.x.x.x,6.893,legit,8266.960107,United States of America
+655,x.x.x.x,6.388,legit,38.28946944,Japan
+656,x.x.x.x,6.871,legit,8312.842072,United States of America
+657,x.x.x.x,287.674,legit,8931.258726,Romania
+658,x.x.x.x,148.606,legit,10348.91491,Canada
+659,x.x.x.x,6.761,legit,38.28946944,Japan
+660,x.x.x.x,197.615,legit,7527.115301,Russian Federation
+661,x.x.x.x,6.151,legit,10015.22608,United States of America
+662,x.x.x.x,160.713,legit,8292.544545,United States of America
+663,x.x.x.x,7.482,legit,38.28946944,Japan
+664,x.x.x.x,258.933,legit,8628.600671,Poland
+665,x.x.x.x,6.549,legit,1193.446112,Korea (Republic of)
+666,x.x.x.x,7.577,legit,10015.22608,United States of America
+667,x.x.x.x,7.088,legit,8312.842072,United States of America
+668,x.x.x.x,7.797,legit,8266.960107,United States of America
+669,x.x.x.x,7.978,legit,8266.960107,United States of America
+670,x.x.x.x,196.861,legit,6994.043031,Russian Federation
+671,x.x.x.x,6.531,legit,8266.960107,United States of America
+672,x.x.x.x,7.139,legit,8266.960107,United States of America
+673,x.x.x.x,263.981,legit,9227.218417,Bulgaria
+674,x.x.x.x,8.106,legit,38.28946944,Japan
+675,x.x.x.x,7.309,legit,38.28946944,Japan
+676,x.x.x.x,7.324,legit,38.28946944,Japan
+677,x.x.x.x,240.887,legit,9336.405913,Netherlands
+678,x.x.x.x,98.735,legit,7695.663885,United States of America
+679,x.x.x.x,6.086,legit,8266.960107,United States of America
+680,x.x.x.x,6.486,legit,10886.61342,United States of America
+681,x.x.x.x,6.433,legit,7693.550751,United States of America
+682,x.x.x.x,6.315,legit,7693.550751,United States of America
+683,x.x.x.x,6.633,legit,38.28946944,Japan
+684,x.x.x.x,6.929,legit,38.28946944,Japan
+685,x.x.x.x,6.139,legit,38.28946944,Japan
+686,x.x.x.x,252.753,legit,8833.661856,Poland
+687,x.x.x.x,7.409,legit,38.28946944,Japan
+688,x.x.x.x,288.461,legit,8578.100101,Poland
+689,x.x.x.x,6.248,legit,7693.550751,United States of America
+690,x.x.x.x,7.483,legit,38.28946944,Japan
+691,x.x.x.x,248.637,legit,8215.326735,Sweden
+692,x.x.x.x,247.285,legit,9557.828066,France
+693,x.x.x.x,251.37,legit,8628.600671,Poland
+694,x.x.x.x,242.06,legit,9382.787657,Germany
+695,x.x.x.x,237.1,legit,9382.787657,Germany
+696,x.x.x.x,7.177,legit,8265.94019,United States of America
+697,x.x.x.x,7.175,legit,8266.960107,United States of America
+698,x.x.x.x,44.822,legit,8312.842072,United States of America
+699,x.x.x.x,44.513,legit,8312.842072,United States of America
+700,x.x.x.x,6.642,legit,8312.842072,United States of America
+701,x.x.x.x,111.729,legit,8312.842072,United States of America
+702,x.x.x.x,6.402,legit,8267.250401,United States of America
+703,x.x.x.x,241.673,legit,8964.70318,Germany
+704,x.x.x.x,8.076,legit,8266.960107,United States of America
+705,x.x.x.x,7.566,legit,8266.960107,United States of America
+706,x.x.x.x,7.393,legit,10015.22608,United States of America
+707,x.x.x.x,6.369,legit,8267.250401,United States of America
+708,x.x.x.x,7.223,legit,8266.960107,United States of America
+709,x.x.x.x,6.507,legit,8266.960107,United States of America
+710,x.x.x.x,7.348,legit,8266.960107,United States of America
+711,x.x.x.x,7.208,legit,8266.960107,United States of America
+712,x.x.x.x,7.133,legit,8266.960107,United States of America
+713,x.x.x.x,7.915,legit,38.28946944,Japan
+714,x.x.x.x,7.956,legit,8266.960107,United States of America
+715,x.x.x.x,6.583,legit,8267.250401,United States of America
+716,x.x.x.x,250.46,legit,10865.88605,United States of America
+717,x.x.x.x,7.353,legit,38.28946944,Japan
+718,x.x.x.x,97.959,legit,7695.663885,United States of America
+719,x.x.x.x,7.034,legit,8266.960107,United States of America
+720,x.x.x.x,167.808,legit,10407.05926,Canada
+721,x.x.x.x,8.444,legit,38.28946944,Japan
+722,x.x.x.x,19.948,legit,38.28946944,Japan
+723,x.x.x.x,106.796,legit,8266.960107,United States of America
+724,x.x.x.x,6.681,legit,8266.960107,United States of America
+725,x.x.x.x,159.407,legit,10885.73053,United States of America
+726,x.x.x.x,7.143,legit,38.28946944,Japan
+727,x.x.x.x,247.055,legit,9557.828066,France
+728,x.x.x.x,6.993,legit,8266.960107,United States of America
+729,x.x.x.x,7.205,legit,8266.960107,United States of America
+730,x.x.x.x,284.134,legit,8912.45758,Poland
+731,x.x.x.x,8.892,legit,38.28946944,Japan
+732,x.x.x.x,266.116,legit,8628.600671,Poland
+733,x.x.x.x,7.743,legit,8266.960107,United States of America
+734,x.x.x.x,7.691,legit,8266.960107,United States of America
+735,x.x.x.x,106.576,legit,7695.663885,United States of America
+736,x.x.x.x,6.89,legit,8266.960107,United States of America
+737,x.x.x.x,6.549,legit,8265.94019,United States of America
+738,x.x.x.x,135.451,legit,7527.115301,Russian Federation
+739,x.x.x.x,151.85,legit,10297.31508,United States of America
+740,x.x.x.x,6.952,legit,8266.960107,United States of America
+741,x.x.x.x,10.575,legit,38.28946944,Japan
+742,x.x.x.x,6.861,legit,8265.94019,United States of America
+743,x.x.x.x,7.143,legit,8266.960107,United States of America
+744,x.x.x.x,7.617,legit,8266.960107,United States of America
+745,x.x.x.x,6.998,legit,8266.960107,United States of America
+746,x.x.x.x,6.998,legit,8266.960107,United States of America
+747,x.x.x.x,7.29,legit,8266.960107,United States of America
+748,x.x.x.x,8.296,legit,8266.960107,United States of America
+749,x.x.x.x,7.71,legit,8266.960107,United States of America
+750,x.x.x.x,8.128,legit,8265.94019,United States of America
+751,x.x.x.x,8.395,legit,8266.960107,United States of America
+752,x.x.x.x,6.252,legit,38.28946944,Japan
+753,x.x.x.x,6.517,legit,8267.250401,United States of America
+754,x.x.x.x,6.834,legit,8267.250401,United States of America
+755,x.x.x.x,8.082,legit,8266.960107,United States of America
+756,x.x.x.x,6.42,legit,8312.842072,United States of America
+757,x.x.x.x,243.468,legit,9761.425479,France
+758,x.x.x.x,6.552,legit,8267.250401,United States of America
+759,x.x.x.x,6.947,legit,8267.250401,United States of America
+760,x.x.x.x,5.972,legit,8267.250401,United States of America
+761,x.x.x.x,5.972,legit,8266.960107,United States of America
+762,x.x.x.x,292.151,legit,8578.100101,Poland
+763,x.x.x.x,7.591,legit,8266.960107,United States of America
+764,x.x.x.x,262.824,legit,7644.689942,Russian Federation
+765,x.x.x.x,262.545,legit,7644.689942,Russian Federation
+766,x.x.x.x,7.945,legit,38.28946944,Japan
+767,x.x.x.x,249.898,legit,8628.600671,Poland
+768,x.x.x.x,281.524,legit,9560.713407,Greece
+769,x.x.x.x,6.589,legit,8266.960107,United States of America
+770,x.x.x.x,7.029,legit,38.28946944,Japan
+771,x.x.x.x,15.092,legit,10809.16543,United States of America
+772,x.x.x.x,7,legit,8267.250401,United States of America
+773,x.x.x.x,65.353,legit,2914.291032,Hong Kong
+774,x.x.x.x,7.628,legit,38.28946944,Japan
+775,x.x.x.x,244.978,legit,9215.223198,Germany
+776,x.x.x.x,6.757,legit,8266.960107,United States of America
+777,x.x.x.x,7.461,legit,38.28946944,Japan
+778,x.x.x.x,243.569,legit,9382.787657,Germany
+779,x.x.x.x,6.596,legit,8266.960107,United States of America
+780,x.x.x.x,83.597,legit,5333.552487,Singapore
+781,x.x.x.x,118.954,legit,11046.69067,United States of America
+782,x.x.x.x,6.347,legit,8266.960107,United States of America
+783,x.x.x.x,245.113,legit,9557.828066,France
+784,x.x.x.x,6.232,legit,8267.250401,United States of America
+785,x.x.x.x,7.962,legit,38.28946944,Japan
+786,x.x.x.x,262.648,legit,8628.600671,Poland
+787,x.x.x.x,6.909,legit,8266.960107,United States of America
+788,x.x.x.x,7.157,legit,8266.960107,United States of America
+789,x.x.x.x,8.639,legit,8266.960107,United States of America
+790,x.x.x.x,183.666,legit,10885.73053,United States of America
+791,x.x.x.x,44.304,legit,8312.842072,United States of America
+792,x.x.x.x,152.088,legit,10864.81987,United States of America
+793,x.x.x.x,6.67,legit,8312.842072,United States of America
+794,x.x.x.x,6.073,legit,8312.842072,United States of America
+795,x.x.x.x,5.7,legit,8312.842072,United States of America
+796,x.x.x.x,6.382,legit,8312.842072,United States of America
+797,x.x.x.x,6.41,legit,8312.842072,United States of America
+798,x.x.x.x,6.218,legit,7693.550751,United States of America
+799,x.x.x.x,8.615,legit,8266.960107,United States of America
+800,x.x.x.x,243.684,legit,9557.828066,France
+801,x.x.x.x,7.28,legit,8266.960107,United States of America
+802,x.x.x.x,242.453,legit,9557.828066,France
