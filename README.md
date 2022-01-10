@@ -39,8 +39,10 @@ To get the successful pings
 ````
 cat outping.txt | grep "is active" | cut -d "'" -f 2
 ````
+The RTT statistics are in the following format:
+rtt min/avg/max/mdev = 10.537/15.892/22.083/4.751 ms
 
-To get the average RTT (Only the PINGs that were successful will have the RTT statistics) 
+The following command is used to get the average RTT (Only the PINGs that were successful will have the RTT statistics) 
 ````
  cat outping.txt | grep "rtt" | cut -d "/" -f 5 | cut -d "/" -f 6
 ````
