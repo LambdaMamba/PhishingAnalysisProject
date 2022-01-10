@@ -2,9 +2,9 @@
 Project to analyze patterns in Phishing Websites
 
 Put domains you want to analyze in a .txt file, similar to the one shown in /sample_domains_list
-I collected the phishing domains from the [Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database), and the legitimate sites from the [whitelist in Ultimate-Hosts-Blacklist](https://github.com/Ultimate-Hosts-Blacklist/whitelist/blob/master/domains.list).
+I collected the phishing domains from the [Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database), and the legitimate sites from the [Whitelist in Ultimate-Hosts-Blacklist](https://github.com/Ultimate-Hosts-Blacklist/whitelist/blob/master/domains.list).
 
-I also wanted to analyze Steam and gaming phishing/scam sites, so I got the Gaming Phishing sites from these places [1](https://github.com/DevSpen/scam-links) [2] (https://github.com/wishihab/steamscamsite). I got the legitimate Gaming Trading sites from these places [1](https://www.reddit.com/r/GlobalOffensiveTrade/wiki/whitelist/) [2](https://gamezod.com/buy-csgo-skins/) [3](https://csgomeister.com/csgo-trading-sites/) [4](https://guide.tf/tf2-trading-sites).
+I also wanted to analyze Steam and gaming phishing/scam sites, so I got the Gaming Phishing sites from these places: [DevSpen's Scam-Links](https://github.com/DevSpen/scam-links) [Wishihab's Steamscamsite](https://github.com/wishihab/steamscamsite). I got the legitimate Gaming Trading sites from these places [CSGO whitelist](https://www.reddit.com/r/GlobalOffensiveTrade/wiki/whitelist/) [Gamezod](https://gamezod.com/buy-csgo-skins/) [CSGO meister](https://csgomeister.com/csgo-trading-sites/) [TF2 Trading Sites](https://guide.tf/tf2-trading-sites).
 
 
 ## WHOIS
