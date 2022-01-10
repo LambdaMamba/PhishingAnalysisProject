@@ -30,6 +30,10 @@ myloc = database.get_all(my_ip)
 
 my_coord = (myloc.latitude, myloc.longitude)
 
+# You can also use DbIPCity from IP2GeoTools to get location information for IP, but this seems to have a limit on how many requests you can make per day
+# myloc = DbIpCity.get(my_ip, api_key='free')
+# my_coord = (myloc.latitude, myloc.longitude)
+
 
 print(my_coord)
 print(myloc.country_long)
@@ -53,11 +57,12 @@ legit_IP = df_legit.IP
 
 # In[3]:
 
-
+#Get country and coordinates for phishing sites, and calculate geographical distance
 for ip in phish_IP:
     response = database.get_all(ip)
     phish_country.append(response.country_long)
     coord = (response.latitude, response.longitude)
+    #Calculate the geographical distance in Kilometers from current location to the site's IP location using Geodesic
     dist = geodesic(my_coord, coord).kilometers
     phish_distance.append(dist)
 
@@ -70,8 +75,8 @@ from collections import Counter
 df_phish['Dist'] = phish_distance
 df_phish['Country'] = phish_country
 
-
-df_phish.to_csv('phishdistcountry.csv')
+#Example of output .csv shown in /output_sample
+df_phish.to_csv('phish_distance_country.csv')
 
 print(df_phish)
 
@@ -99,7 +104,7 @@ plt.show()
 
 # In[5]:
 
-
+#Get country and coordinates for legitimate sites, and calculate geographical distance
 for ip in legit_IP:
     response = database.get_all(ip)
     legit_country.append(response.country_long)
@@ -116,7 +121,7 @@ from collections import Counter
 df_legit['Dist'] = legit_distance
 df_legit['Country'] = legit_country
 
-df_legit.to_csv('legitdistcountry.csv')
+df_legit.to_csv('legit_distance_country.csv')
 
 
 print(df_legit)
@@ -182,6 +187,7 @@ plt.show
 
 # In[9]:
 
+#Use linear regression, fit using Numpy Polyfit to the first order (straight line)
 
 y_phish = np.polyfit(df_phish.Dist, df_phish.RTTavg, 1)
 
@@ -223,15 +229,6 @@ print("R2 score for phishing sites", r2_score(df_phish.RTTavg, np.polyval(y_phis
 
 print("MSE for legitimate sites: ", mean_squared_error(df_legit.RTTavg, np.polyval(y_legit, df_legit.Dist)))
 print("R2 score for legitimate sites", r2_score(df_legit.RTTavg, np.polyval(y_legit, df_legit.Dist)))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
