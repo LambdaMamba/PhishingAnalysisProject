@@ -51,5 +51,5 @@ The collected data looks like the one in /ping/pinglegit.csv and /ping/whois.csv
 
 To get the location of the IP addresses in ping_analysis.py, IP2Location Database is used, and can be obtained from [here](https://lite.ip2location.com/database/db5-ip-country-region-city-latitude-longitude).
 
-The outputted .csv file that includes the distance and Country should look like the ones in /ping/legitdistcountry.csv and /ping/phishdistcountry.csv (IP addresses are removed for privacy issues).
+The outputted .csv file that includes the distance and Country should look like the ones in /ping/output_sample/legit_distance_country.csv and /ping/output_sample/ping_distance_country.csv (IP addresses are removed for privacy issues).
 
