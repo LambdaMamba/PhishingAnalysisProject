@@ -27,6 +27,10 @@ One problem with WHOIS is the data format is not consistent. Some use "Created o
 
 The processed WHOIS data looks like the one in /whois/legit.csv and /whois/phish.csv, which can be used for whois_analysis.py.
 
+The histogram that shows the active days of the domains will look something similar to the following:
+
+![Figure 1](whois/whois_histogram.png) 
+
 
 ## PING
 
@@ -52,4 +56,15 @@ The collected data looks like the one in /ping/pinglegit.csv and /ping/whois.csv
 To get the location of the IP addresses in ping_analysis.py, IP2Location Database is used, and can be obtained from [here](https://lite.ip2location.com/database/db5-ip-country-region-city-latitude-longitude).
 
 The outputted .csv file that includes the distance and Country should look like the ones in /ping/output_sample/legit_distance_country.csv and /ping/output_sample/ping_distance_country.csv (IP addresses are removed for privacy issues).
+
+
+The histogram that shows the countries of the domains will look like the following,
+![Figure 2](ping/output_sample/ping_country_histogram.png) 
+
+
+The plot that shows Distance VS RTT will look like the following,
+![Figure 3](ping/output_sample/ping_distance_rtt_plot.png) 
+
+
+
 
