@@ -27,7 +27,7 @@ One problem with WHOIS is the data format is not consistent. Some use "Created o
 
 The processed WHOIS data looks like the one in /whois/legit.csv and /whois/phish.csv, which can be used for whois_analysis.py.
 
-The histogram that shows the active days of the domains will look something similar to the following:
+The histogram that shows the active days of the domains will look like the following,
 
 ![Figure 1](whois/whois_histogram.png) 
 
