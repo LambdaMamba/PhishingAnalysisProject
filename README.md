@@ -12,7 +12,7 @@ I also wanted to analyze Steam and gaming phishing/scam sites, so I got the Gami
 
 Redirect output of whois.py to outwhois.txt
 ````
-whois.py > outwhois.txt
+python3 whois.py > outwhois.txt
 ````
 To get the Creation date of the domain
 ````
@@ -36,7 +36,7 @@ The histogram that shows the active days of the domains will look like the follo
 
 Redirect output of ping.py to outping.txt
 ````
-ping.py > outping.txt
+python3 ping.py > outping.txt
 ````
 
 To get the successful pings
